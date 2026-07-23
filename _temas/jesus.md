@@ -3,6 +3,8 @@ title: Segundo Enfoque
 layout: page
 tags: pedro primado piedra roca kefas iglesia asamblea papa vaticano roma pontifice jerarquia vicario esposa cuerpo mistico babilonia de la el dios jesus
 ---
+* Table of Contents
+{:toc}
 
 
 
@@ -405,7 +407,9 @@ La expresión "nacido de nuevo" se refiere al bautismo, como Jesús mismo enseñ
 
 
 
-### La salvación exige aceptar personalmente a Jesucristo como Señor y Salvador; los sacramentos y la pertenencia a la Iglesia no bastan. (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista)
+### La salvación exige aceptar personalmente a Jesucristo como Señor y Salvador; los sacramentos y la pertenencia a la Iglesia no bastan.
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista)
 
 #### Respuesta
 {:.no_toc}
@@ -422,4 +426,66 @@ Aceptar personalmente a Jesucristo como Señor y Salvador es esencial, pero esa 
 La Iglesia Católica no es una denominación más, sino la única Iglesia fundada por Jesucristo sobre Pedro (Mateo 16,18), que ha mantenido una sucesión apostólica ininterrumpida durante dos mil años y custodia el depósito de la fe, mientras que las denominaciones protestantes surgieron siglos después de la Reforma del siglo XVI como divisiones humanas. El Vademécum señala que Jesús oró por la unidad de sus discípulos (Juan 17,21) y que San Pablo condena las divisiones (1 Corintios 1,10-13), y la historia muestra que los primeros cristianos reconocían la autoridad de la Iglesia de Roma, como atestigua San Ignacio de Antioquía en el siglo II, mientras que las doctrinas de la Sola Scriptura y la Sola Fide son innovaciones que no tienen apoyo en la Tradición apostólica. La Iglesia Católica es la "columna y fundamento de la verdad" (1 Timoteo 3,15) y ha preservado el Evangelio completo, con sus sacramentos y su Magisterio, siendo la única que puede reclamar legítimamente ser la Esposa de Cristo, no por mérito humano, sino por la promesa divina de que el Espíritu Santo la guiaría hasta el fin de los tiempos.
 
 
+
+### La salvación no puede perderse una vez recibida ("salvos siempre salvos"); por tanto, la confesión y la penitencia son innecesarias.
+
+(Iglesia Bautista, Tabernáculo Bíblico Bautista)
+
+#### Respuesta
+{:.no_toc}
+
+La doctrina de "una vez salvos siempre salvos" contradice claramente la Escritura, donde San Pablo advierte que aquellos que han sido justificados pueden perder la salvación si no perseveran, diciendo que "no querrá saber nada de los que se apartan" (Hebreos 10,26-29), y que él mismo temía ser reprobado después de haber predicado a otros (1 Corintios 9,27). El Vademécum señala que Jesús enseña que la rama que no da fruto será cortada y arrojada al fuego (Juan 15,6), y que San Pablo exhorta a los fieles a "ocuparse en su salvación con temor y temblor" (Filipenses 2,12), lo que sería innecesario si la salvación fuera irreversible. La confesión y la penitencia son los medios que Cristo instituyó para restaurar la gracia perdida por el pecado mortal (Juan 20,22-23), y la Iglesia, siguiendo la enseñanza apostólica, ha administrado este sacramento desde el principio, porque Dios es misericordioso y siempre nos ofrece el perdón si nos arrepentimos, pero nuestra libertad es real y podemos apartarnos de Él, por lo que debemos mantenernos firmes en la fe y en la caridad, como nos recuerda San Pedro: "sed sobrios y velad, porque vuestro adversario el diablo ronda como león rugiente buscando a quien devorar" (1 Pedro 5,8).
+
+
+### Dios tiene un cuerpo físico de carne y huesos, y los hombres pueden llegar a ser dioses por exaltación.
+
+(Iglesia de Jesucristo de los Santos de los Últimos Días)
+
+#### Respuesta
+{:.no_toc}
+
+La Escritura enseña claramente que Dios es Espíritu (Juan 4,24) y que es invisible (1 Timoteo 1,17), no tiene cuerpo físico como los hombres, y aunque los cristianos somos llamados a participar de la naturaleza divina (2 Pedro 1,4), esto no significa que lleguemos a ser dioses en el sentido mormón de ser creadores de mundos, sino que somos hechos hijos adoptivos por gracia, participando de la vida divina sin dejar de ser criaturas. El Vademécum señala que la idea de que Dios fue alguna vez un hombre es una blasfemia que contradice la inmutabilidad de Dios (Malaquías 3,6) y la enseñanza de Isaías de que Dios es el único y no hay otro (Isaías 45,5), y que la exaltación del hombre a la divinidad rompe la distinción fundamental entre Creador y criatura, una herejía que los Padres de la Iglesia combatieron como idolatría. La promesa de ser "herederos de Dios y coherederos con Cristo" (Romanos 8,17) significa que compartimos su gloria como hijos, pero no que absorbamos su esencia o que podamos crear de la nada, y la verdadera esperanza cristiana no es convertirnos en dioses, sino ser transformados por el amor de Dios y vivir eternamente en comunión con la Santísima Trinidad.
+
+
+### La cruz es un símbolo pagano; Jesús murió en un simple madero o poste de tormento.
+
+(Testigos de Jehová)
+
+#### Respuesta
+{:.no_toc}
+
+<!-- La cruz no es un símbolo pagano, sino el instrumento de la muerte redentora de Cristo, que la Escritura llama "madero" (Hechos 5,30) y "cruz" (Mateo 27,32), y la tradición cristiana, desde los tiempos apostólicos, la ha venerado como el signo de nuestra salvación, como lo atestiguan los primeros Padres y las catacumbas donde aparece la cruz como símbolo de fe. El Vademécum señala que  -->
+
+> "En cuanto a mí ¡Dios me libre gloriarme si nos es en **la cruz** de nuestro Señor Jesucristo, por la cual el mundo es para mí un crucificado y yo un crucificado para el mundo!" (Gálatas 6,14). 
+
+El término griego *stauros* se refiere a un poste o estaca, pero *también* a una **cruz**, y la **evidencia histórica y arqueológica** muestra que los romanos usaban **cruces de madera con travesaño**, como la que se encontró en el Monte Calvario, y que **los primeros cristianos**, lejos de rechazarla, la veían como la señal de la victoria de Cristo sobre el pecado. Lo que **nunca** encontraras en las catacumbas es la **estrella de David**.
+
+<!-- , no por influencia de cultos paganos, sino porque en ella Cristo se humilló hasta la muerte, y los cristianos, a ejemplo de los primeros mártires, han hecho de la cruz el emblema de su fe, sin que haya evidencia de que Jesús haya muerto en un simple madero vertical, pues los Evangelios mencionan el stauros y el titulus que Pilato mandó poner, lo que indica un instrumento de tortura con forma de cruz. -->
+
+
+### Llamarle "Padre" a los sacerdotes o al Papa viola directamente el mandato de Cristo en Mateo 23:9 ("Y no llaméis padre vuestro a nadie en la tierra").
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim, Iglesia Bautista, Testigos de Jehová, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+> y les dijo: «En la cátedra de Moisés se han sentado los escribas y los fariseos. Haced, pues, y **observad todo lo que os digan; pero no imitéis su conducta, porque dicen y no hacen**. Atan cargas pesadas y las echan a las espaldas de la gente, pero ellos ni con el dedo quieren moverlas. **Todas sus obras las hacen para ser vistos por los hombres**; se hacen bien anchas las filacterias y bien largas las orlas del manto; **quieren el primer puesto** en los banquetes y los primeros asientos en las sinagogas, que se les salude en las plazas **y que la gente les llame “Rabbí”**. «Vosotros, en cambio, **no os dejéis llamar “Rabbí”**, porque uno solo es vuestro Maestro; y vosotros sois todos hermanos. **Ni llaméis a nadie “Padre”** vuestro en la tierra, porque uno solo es vuestro Padre: el del cielo.  (Mateo 23:2-9)
+
+
+Llamar *"padre"* a los sacerdotes o al Papa no viola el mandato de Cristo, porque la palabra *Padre* en Mateo 23,9 **se refiere a la autoridad suprema de Dios**, no a una prohibición literal del término.
+
+
+> Pues aunque hayáis tenido 10.000 pedagogos en Cristo, **no habéis tenido muchos padres**. He sido yo quien, por el Evangelio, **os engendré en Cristo Jesús**. (1 Corintios 4:15)
+
+> Os escribo a vosotros, **padres**, porque conocéis al que es desde el principio. Os escribo a vosotros, jóvenes, porque habéis vencido al Maligno. (1 Juan 2:13)
+
+San Pablo es aqui *padre* en tanto que **engendró a los corintios en el Evangelio**. En el mismo sentido, llama San Juan *padres* a sus destinatarios.
+
+
+> como dice la Escritura: Te he constituido **padre** de muchas naciones: **padre** nuestro delante de Aquel a quien creyó, de Dios que da la vida a los muertos y llama a las cosas que no son para que sean. El cual, esperando contra toda esperanza, creyó y fue hecho **padre** de muchas naciones según le había sido dicho: Así será tu posteridad. (Romanos 4:17-18)
+
+Mencion explícita de Abraham como nuestro **Padre en la fe**.
+
+Si el término *"padre"* estuviera absolutamente prohibido, entonces los mismos protestantes que objetan *tendrían que evitar llamar "padre" a sus padres biológicos*, pero saben que la intención de Jesús era **advertir contra la arrogancia**, no eliminar una palabra que la Escritura misma usa para honrar a los líderes religiosos.
 
