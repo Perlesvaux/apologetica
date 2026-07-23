@@ -1,0 +1,129 @@
+/* FONT */
+
+p,
+li {
+   font-size: 1rem;
+}
+
+blockquote {
+   font-style: normal;
+   letter-spacing: normal;
+   color: #646161;
+}
+
+/* NAVIGATION */
+
+:target {
+   scroll-margin-top: 4px;
+   animation: target-highlight 3s ease-out;
+}
+
+@keyframes target-highlight {
+   from {
+      outline: 3px solid orange;
+      background-color: antiquewhite;
+   }
+
+   to {
+      outline: 3px solid transparent;
+      background-color: transparent;
+   }
+}
+
+/* POPOVERS */
+
+[popover] {
+   padding: 20px;
+   overflow-y: auto;
+   max-height: 70vh;
+   border: 3px solid blueviolet;
+}
+
+[popover]>ul {
+   margin-left: 0;
+}
+
+/* BUTTONS */
+
+#btn-container {
+   display: grid;
+   position: fixed;
+   inset: auto 37px 37px auto;
+   grid-auto-flow: column;
+   gap: 10px;
+}
+
+[popovertarget] {
+   width: 42px;
+   height: 42px;
+   cursor: pointer;
+   border: 2px solid black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: aliceblue;
+   box-shadow: 5px 5px gray;
+}
+
+[popovertarget=toc] {
+   fill: darkcyan;
+}
+
+[popovertarget=marked-verses] {
+   fill: forestgreen;
+}
+
+[popovertarget=font-options] {
+   fill: teal;
+}
+
+[popovertarget]:active {
+   background-color: burlywood;
+   box-shadow: 1px 1px gray;
+}
+
+[popovertarget]:hover {
+   background-color: cornsilk;
+}
+
+/* TABLES OF CONTENT */
+
+ul {
+   margin-left: 22px;
+   padding-left: 3px;
+}
+
+ul:has(ul) {
+   border-left: 1px inset;
+}
+
+li:has(ul) {
+   list-style-type: disclosure-open;
+}
+
+/* VARIOUS COMPONENTS */
+
+#markdown-toc {
+   margin: 0;
+   /* list-style-type: none; */
+}
+
+#font-options {
+
+   label {
+      display: grid;
+      gap: 5px;
+   }
+
+   label:first-child {
+      padding-bottom: 10px;
+   }
+}
+
+#font-size-select,
+#font-family-select {
+   padding: 5px;
+   font-size: 16px;
+   width: fit-content;
+   justify-self: center;
+}
