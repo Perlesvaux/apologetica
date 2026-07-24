@@ -9,6 +9,11 @@ blockquote {
    font-style: normal;
    letter-spacing: normal;
    color: #171f87;
+   color: darkred;
+}
+
+.red-link {
+   color: red;
 }
 
 /* NAVIGATION */

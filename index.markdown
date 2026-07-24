@@ -21,12 +21,12 @@ Sin embargo, ese primer anuncio o *kerigma* es solo el primer paso para llevar u
 
 La mayoría de personas en nuestros países ya recibió el primer anuncio o *kerigma*, pero el proselitismo de las sectas protestantes (cuya doctrina siempre lleva veneno anticatólico) ya alejó de la verdad a la mitad de nuestra hispanoamérica, que algún día fue casi totalmente católica. Por eso hoy es necesario estar preparado para demostrar que la verdad es católica; y en eso consiste la *apologética*: en la defensa de nuestra fe.
 
-Este documento es para ayudar un poco a esa *evangelización apologética* que hoy se requiere; en él se ofrecen respuestas breves a los errores protestantes más comunes. Cada tema está dividido en objeciones protestantes, cada una de las cuales tiene su respuesta católica. Ante todo, durante la evangelización, recuérdese que:
+Este documento es para ayudar un poco a esa *evangelización apologética* que hoy se requiere; en él se ofrecen respuestas breves a los errores protestantes más comunes. Cada tema está dividido en objeciones protestantes con su respectiva respuesta católica. Ante todo, durante la evangelización, recuérdese que el condicionamiento anticatólico de las sectas es difícil de superar, y la conversión es dolorosa. Tengamos paciencia con nuestros hermanos separados.
 
-- El condicionamiento anticatólico de las sectas es difícil de superar, y la conversión es dolorosa. Tengamos paciencia con nuestros hermanos separados.
-- Si un protestante se siente acorralado, puede desesperarse y empezar a:
-   - Interrumpir saltando de un tema a otro, yendo de un tema sencillo (como la necesidad del Bautismo) a uno más complejo (como la inmaculada concepción de María), queriendo confirmar su prejuicio de que la fe católica eseña alguna cosa falsa, porque si todas las denominaciones cristianas tienen algo de falso, él se siente autorizado para quedarse donde está.
-   - Re-objetar un punto que ya admitió (por ejemplo: ya aceptó que el alma es inmortal y hay santos en el Cielo, pero cuando uno trata de demostrar la intercesión de María, vuelven a decir que «los muertos nada saben»).
+Cuando un hermano separado se siente acorralado, puede desesperarse y empezar a:
+
+- Interrumpir saltando de un tema a otro, yendo de un tema sencillo (como la necesidad del Bautismo) a uno más complejo (como la inmaculada concepción de María), queriendo confirmar que la fe católica eseña alguna cosa injustificable (porque si todas las denominaciones tienen algo de falso, él se siente autorizado para quedarse donde está).
+- Re-objetar un punto que ya admitió (por ejemplo: ya aceptó que el alma es inmortal y hay santos en el Cielo, pero cuando uno trata de demostrar la intercesión de María, vuelven a decir que «los muertos nada saben»).
 
 En tales casos de endurecimiento, es mejor desistir, al menos por ese día, para evitar enemistad. Oremos por ellos.
 
@@ -37,6 +37,8 @@ Las citas corresponden a la Biblia de Jerusalén, a menos que se indique lo cont
 ## Iglesia y Tradición
 
 ### Obj. 1: Cristo no fundó una Iglesia sobre Pedro
+
+**Error de**: Todos los protestantes.
 
 Dicen que Cristo no fundó una Iglesia institucional y visible bajo la autoridad de san Pedro como su primer Papa.
 
@@ -49,11 +51,13 @@ Jesús dijo eso en arameo, idioma en que «Pedro» y «piedra» son la misma pal
 
 Cristo promete que «las puertas del Hades no prevalecerán», significando que la Iglesia resistirá hasta la Parusía sin corromper el evangelio, pues la misión de esta es conservarlo y darlo a conocer.
 
-A Pedro se le dan las llaves del Cielo y el poder de atar y desatar, es decir: la economía (administración) de la salvación mediante los sacramentos, y la autoridad de definir lo que es necesario creer. Además, el Señor designó a Pedro como el pastor de sus corderos:
+A Pedro se le dan las llaves del Cielo y el poder de atar y desatar, es decir: la economía (administración) de la salvación mediante los sacramentos, y la autoridad de definir lo que es necesario creer, o lo que del Antiguo Pacto hay que soltar. El Apóstol Juan también confirma que el Señor designó a Pedro como el pastor de sus corderos:
 
 > Después de haber comido, dice Jesús a Simón Pedro: «Simón de Juan, ¿me amas más que éstos?» Le dice él: «Sí, Señor, tú sabes que te quiero.» Le dice Jesús: «**Apacienta mis corderos**.» (Juan 21, 15)
 
 ### Obj. 2: No es necesario pertenecer a la Iglesia católica
+
+**Error de**: Todos los protestantes.
 
 Los protestantes sostienen que para un cristiano es lícito pertenecer a cualquier secta, siempre y cuando amen sinceramente a Dios.
 
@@ -83,7 +87,8 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
-[Video - Padre Luis Toro][p-toro-padre]
+[**▶ Video - Padre Luis Toro ◀**][p-toro-padre]{:.red-link} 
+
 
 
 ### Obj. 4: La Biblia prohibe ciertos alimentos
@@ -155,7 +160,7 @@ Si Jesús hubiese muerto en un madero tal como en las ilustraciones de los Testi
 
 ### Obj. 8: Los cristianos no deben usar la cruz porque es un instrumento de ejecución
 
-Algunos protestantes enseñan a repudiar la cruz porque, según ellos, es un macabro instrumento de ejecución y maldición porque «es Maldito todo el que es colgado en un madero» (Gálatas 3, 13 citando Deuteronomio 21, 23). De entre ellos, algunos proponen usar la estrella de David como símbolo cristiano.
+Algunos protestantes enseñan a repudiar la cruz porque, según ellos, es un macabro instrumento de ejecución y maldición porque «es maldito todo el que es colgado en un madero» (Gálatas 3, 13 citando Deuteronomio 21, 23). De entre ellos, algunos proponen usar la estrella de David como símbolo cristiano.
 
 #### Respuesta
 {:.no_toc}
@@ -468,11 +473,11 @@ La acusación de alteración **es infundada**, pues el texto bíblico ha sido tr
 
 Hace falta quitarse de en medio tan incomodos libros para justificar **la fe sin obras**.
 
-[Video - Sembrador de Peste][jgm-6-relatos-6]
+<!-- [Video - Sembrador de Peste][jgm-6-relatos-6] -->
 
-[Video - Error teologico, error politico][sa-capitalismo-fe]
+<!-- [Video - Error teologico, error politico][sa-capitalismo-fe] -->
 
-[Video - Fe Catolica contra protestantismo][cat-vs-prot]
+<!-- [Video - Fe Catolica contra protestantismo][cat-vs-prot] -->
 
 
 
