@@ -123,10 +123,12 @@ No olvidemos la **persecución de católicos** por parte de la **corona Inglesa 
 
 Uno es lo que hace. **Masones, judíos y herejes son quienes persiguen cristianos**. Por tanto, **si hay una Gran Ramera de Babilonia al acecho, son ellos**.
 
-[Video relacionado - Siete Colinas](https://www.youtube.com/shorts/eC8dyuY67fw?feature=share)
+[Video - Siete Colinas][siete-colinas]
 
-[Video relacionado - Skull & Bones](https://youtu.be/DoEbh_BGL2I)
+[Video - Skull & Bones][skull-bones]
 
+[siete-colinas]:https://www.youtube.com/shorts/eC8dyuY67fw?feature=share
+[skull-bones]:https://youtu.be/DoEbh_BGL2I
 ---
 
 
@@ -331,5 +333,8 @@ Esta idea es históricamente insostenible, ya que los primeros Padres de la Igle
 
 Curioso como cada acusacion resulta una confesion por parte de los herejes.
 
-[Video relacionado - Contra Lutero I](https://youtu.be/BC303i2pH-c)
-[Video relacionado - Contra Lutero II](https://youtu.be/Y6saiKnRmjg)
+[Video relacionado - Contra Lutero I][contra-lutero-1]
+[Video relacionado - Contra Lutero II][contra-lutero-2]
+
+[contra-lutero-1]:https://youtu.be/BC303i2pH-c
+[contra-lutero-2]:https://youtu.be/Y6saiKnRmjg

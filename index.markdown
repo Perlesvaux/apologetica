@@ -81,6 +81,9 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
+[Video - Padre Luis Toro][p-toro-padre]
+
+
 ### Obj. 4: La Biblia prohibe ciertos alimentos
 
 En Levítico 11 y Deuteronomio 14 se prohibe comer ciertos animales «impuros», y algunos protestantes enseñan que los cristianos debemos seguir esa ley dietética.
@@ -144,6 +147,9 @@ Si Jesús hubiese muerto en un simple madero, el evangelista hubiera dicho que l
 > Pero él les contestó: «Si no veo **en sus manos la señal de los clavos y no meto mi dedo en el agujero de los clavos** y no meto mi mano en su costado, no creeré.» (Juan 20, 25)
 
 Si Jesús hubiese muerto en un madero tal como en las ilustraciones de los Testigos de Jehová, donde 1 solo clavo atraviesa ambas manos, Tomás hubiera dicho: «Si no veo en sus manos la señal **del clavo** y no meto mi dedo en el agujero **del clavo**...»
+
+[Video - Padre Luis Toro][p-toro-cruz]
+
 
 ### Obj. 8: Los cristianos no deben usar la cruz porque es un instrumento de ejecución
 
@@ -324,3 +330,114 @@ Este sacramento es un don de la misericordia divina que **nos asegura el perdón
 
 ---
 
+## Calumnias Gratuitas
+
+
+### Obj. 1: La Iglesia Católica es la "Babilonia la Grande" o la ramera del Apocalipsis. 
+(Adventistas del Séptimo Día, Testigos de Jehová; también frecuente entre predicadores pentecostales y bautistas)
+
+> Maridos, amad a vuestras mujeres, **así como Cristo amó a la iglesia, y se entregó a sí mismo por ella**, para santificarla, habiéndola purificado en el lavamiento del agua por la palabra, a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha. (Efesios 5:25-27)
+
+#### Respuesta
+{:.no_toc}
+
+Identificar a la Iglesia Católica con la *"Babilonia la Grande"* del Apocalipsis es una interpretación falaz y desmentida por la historia, ya que el término *"Babilonia"* en el Nuevo Testamento **se refiere a Roma pagana**, la ciudad que **persiguió a los cristianos** y destruyó Jerusalén en el año 70 d.C., no a la Iglesia fundada por Cristo (Apocalipsis 17,9-18). 
+
+Esta teoría, popularizada por *Alexander Hislop* en el siglo XIX, se basa en una lógica defectuosa que comete la falacia de origen y de non sequitur, como demuestra el propio apologista Ralph Woodrow, quien repudió su obra anterior al descubrir que los mismos métodos de Hislop podrían *"probar"* que cualquier institución moderna, incluida la Biblia misma, tiene orígenes paganos.
+
+Su historia de *dos mil años de santidad y martirio*, a pesar de los pecados de algunos de sus miembros, es un testimonio de la fidelidad de Dios y de que *las puertas del hades no prevalecerán sobre ella*.
+
+No olvidemos la **persecución de católicos** por parte de la **corona Inglesa (véase: herejía anglicana)**. **Estados Unidos** fue literalmente fundado por **masones**. En Medio Oriente, los **judios** escupen y matan a cristianos y destruyen Iglesias Primitivas.
+
+Uno es lo que hace. **Masones, judíos y herejes son quienes persiguen cristianos**. Por tanto, **si hay una Gran Ramera de Babilonia al acecho, son ellos**.
+
+[Video - Siete Colinas][siete-colinas]
+
+[Video - Skull & Bones][skull-bones]
+
+
+
+### Obj. 2: La Iglesia Católica apostató poco después de los apóstoles y corrompió el cristianismo verdadero. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Testigos de Jehová, Iglesia de Jesucristo de los Santos de los Últimos Días, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+La teoría de la Gran Apostasía no se sostiene porque **contradice la promesa de Cristo de que las puertas del infierno no prevalecerían contra Su Iglesia** (Mateo 16:18) y que Él estaría con ella *"hasta el fin del mundo"* (Mateo 28:20). 
+
+Esta idea es históricamente insostenible, ya que los primeros Padres de la Iglesia, como Ignacio de Antioquía (que conoció a los apóstoles), enseñaron coherentemente doctrinas como la presencia real en la Eucaristía y el papado, sin que exista registro de una comunidad *"verdadera"* que se opusiera a estas enseñanzas desde el principio. El hecho de que **herejes** como *Arrio* y *Lutero* surgieran *"de entre"* los fieles (Hechos 20:29-30) no prueba la apostasía de toda la Iglesia, sino **el cumplimiento de la profecía de falsos maestros dentro de la comunidad**, mientras la Iglesia, como columna y fundamento de la verdad (1 Timoteo 3:15), permanece guiada por el Espíritu Santo.
+
+Curioso como cada acusacion resulta una confesion por parte de los herejes.
+
+[Video relacionado - Contra Lutero I][contra-lutero-1]
+
+[Video relacionado - Contra Lutero II][contra-lutero-2]
+
+
+
+### Obj. 3: La Iglesia Católica mezcló el cristianismo con el paganismo romano mediante fiestas, imágenes y costumbres. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día, Testigos de Jehová)
+
+#### Respuesta
+{:.no_toc}
+
+> Entonces Pablo, puesto en pie en medio del Areópago, dijo: Varones atenienses, en todo observo que **sois muy religiosos**; porque pasando y mirando vuestros santuarios, hallé también un altar en el cual estaba esta inscripción: AL DIOS NO CONOCIDO. **Al que vosotros adoráis, pues, sin conocerle, es a quien yo os anuncio**. (Hechos 17:22-23)
+
+La acusación de que la Iglesia Católica mezcló el cristianismo con el paganismo romano carece de fundamento histórico, porque la Iglesia siempre ha inculturado el Evangelio en cada cultura, tomando formas culturales y dándoles un sentido cristiano, como hizo San Pablo en Atenas al convertir el altar al "Dios desconocido" en una proclamación del Dios verdadero, sin que ello implicara adoptar el paganismo. 
+
+Esta teoría, propagada por el libro **Las Dos Babilonias** de *Alexander Hislop*, es un ejemplo de falacia lógica que confunde similitudes superficiales con orígenes paganos. Incluso su seguidor *Ralph Woodrow* repudió estos métodos al darse cuenta de que podrían *"probar"* que cualquier institución, incluida la Biblia, tiene raíces paganas, **lo que demuestra su absurdo**. 
+
+La Iglesia adoptó elementos culturales, como templos y vestimentas, pero los transformó y santificó para la adoración del Dios vivo, y su enseñanza sobre la Encarnación, la Eucaristía y los sacramentos es radicalmente distinta de cualquier culto mistérico, como **lo han atestiguado los mártires que prefirieron morir antes que ofrecer incienso a los dioses romanos, mostrando que su fe era pura y no una mezcla sincretista**.
+
+
+
+### Obj. 4: La Iglesia Católica enseña tradiciones humanas en lugar del Evangelio.
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+> Así pues, hermanos, manteneos firmes y **conservad las tradiciones que habéis aprendido de nosotros, de viva voz o por carta**. (2 Tesalonicenses 2:15)
+
+> y les dijo: **«En la cátedra de Moisés** se han sentado los escribas y los fariseos. (Mateo 23:2)
+
+
+La Iglesia Católica no enseña tradiciones humanas en lugar del Evangelio, sino que guarda la Sagrada Tradición que proviene de los apóstoles, la cual San Pablo ordena conservar **tanto de viva voz como por carta**, y que es la misma enseñanza de Cristo transmitida bajo la guía del Espíritu Santo. 
+
+**Jesús mismo reconoció la autoridad de la tradición oral cuando se refirió a "la cátedra de Moisés"**, una tradición no escrita, y que **la Iglesia primitiva definió dogmas como la admisión de los gentiles sin circuncisión** (Hechos 15), una decisión que, aunque no se basaba en la Escritura explícita, era fruto de la asistencia del Espíritu Santo. **La Tradición** no es una añadidura humana, sino **el depósito de la fe**, que **junto con la Escritura forma una única fuente de revelación**, y fue precisamente la Iglesia la que, bajo la inspiración divina, determinó el canon bíblico, por lo que **oponer Tradición y Evangelio es un falso dilema que ignora que el Evangelio fue primero predicado y vivido antes de ser escrito**, y que la Iglesia es *"columna y fundamento de la verdad"* (1 Timoteo 3,15).
+
+
+
+### Obj. 5: La observancia dominical será la marca de la bestia o preparará el camino para ella.
+
+(Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+>Por tanto, **que nadie os critique** por cuestiones de comida o bebida, o **a propósito de fiestas, de novilunios o sábados**. Todo esto es **sombra de lo venidero; pero la realidad es el cuerpo de Cristo**. (Colosenses 2:16-17)
+
+El sábado era una sombra de la realidad que es Cristo, y que el cambio al domingo refleja **la nueva creación inaugurada por la Pascua**, sin que haya ninguna profecía que relacione este día con la apostasía; al contrario, la Iglesia, como columna y fundamento de la verdad tiene autoridad para establecer días de culto, como hizo al determinar el canon bíblico y los dogmas. 
+
+> **El primer día de la semana**, estando nosotros reunidos para la fracción del pan, Pablo, que debía marchar al día siguiente, conversaba con ellos y alargó la charla hasta la media noche. (Hechos 20:7)
+
+Atribuir al domingo un carácter diabólico **es una interpretación arbitraria y forzada que ignora el testimonio de los primeros cristianos**, quienes, siguiendo la tradición apostólica, celebraban la Eucaristía en domingo para conmemorar la resurrección.
+
+
+
+
+
+---
+
+[p-toro-padre]:https://youtu.be/MkE7zqB1CZA
+[p-toro-cruz]:https://youtu.be/HRbmYx3ddPw?t=307
+
+
+[siete-colinas]:https://www.youtube.com/shorts/eC8dyuY67fw?feature=share
+[skull-bones]:https://youtu.be/DoEbh_BGL2I
+
+[contra-lutero-1]:https://youtu.be/BC303i2pH-c
+[contra-lutero-2]:https://youtu.be/Y6saiKnRmjg
