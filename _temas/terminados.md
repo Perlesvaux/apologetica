@@ -338,3 +338,28 @@ Curioso como cada acusacion resulta una confesion por parte de los herejes.
 
 [contra-lutero-1]:https://youtu.be/BC303i2pH-c
 [contra-lutero-2]:https://youtu.be/Y6saiKnRmjg
+
+
+
+---
+
+### Los libros deuterocanónicos no son inspirados y no deben formar parte de la Biblia. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+
+> De otro modo, ¿qué harán los que se bautizan por los muertos, **si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?** (1 Corintios 15:29.)
+
+> e hicieron rogativas pidiendo que el pecado cometido quedara completamente borrado. El noble Judas exhortó a la multitud a que se abstuvieran del pecado, ya que ellos habían visto con sus propios ojos lo que había sucedido a los caídos en el combate a causa de su pecado. Y después de haber recolectado entre sus hombres unas dos mil dracmas, las envió a Jerusalén para que se ofreciera un sacrificio por el pecado. Él realizó este hermoso y noble gesto con el pensamiento puesto en la **resurrección**, porque **si no hubiera esperado que los caídos en la batalla iban a resucitar, habría sido inútil y superfluo orar por los difuntos**. Además, él tenía presente la magnífica recompensa que está reservada a los que mueren piadosamente, y este es un pensamiento santo y piadoso. Por eso, mandó ofrecer el sacrificio de expiación por los muertos, para que fueran librados de sus pecados. (2 Macabeos 12:42-45)
+
+Los libros deuterocanónicos **son inspirados y forman parte de la Biblia porque fueron incluidos en la Septuaginta**, la versión griega del Antiguo Testamento que la Iglesia primitiva, guiada por los apóstoles, utilizaba en sus liturgias, y porque el Nuevo Testamento **hace alusiones a ellos y a sus enseñanzas**, como la oración por los difuntos que San Pablo parece presuponer en 1 Corintios 15:29.
+
+Los judíos de Palestina no incluían estos libros en su canon hebreo, **pero los judíos de la diáspora sí los aceptaban**, y la Iglesia, bajo la inspiración del Espíritu Santo, los confirmó como canónicos en los concilios de Hipona y Cartago, siguiendo la práctica de los apóstoles, que citaban la Septuaginta. 
+
+**Su exclusión** por parte de los reformadores protestantes en el siglo XVI **fue un acto arbitrario** basado en un canon judío posterior, que no tenía autoridad sobre la Iglesia cristiana, y estos libros han sido leídos y venerados por los cristianos desde el principio, como demuestra el testimonio de los Padres de la Iglesia, por lo que su valor doctrinal y espiritual es indiscutible y forma parte integral de la fe católica.
+
+
+---

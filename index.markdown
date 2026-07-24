@@ -222,12 +222,9 @@ Mateo 6, 7 no condena las oraciones repetitivas, pues ellas siempre han sido cos
 
 La práctica de las novenas viene de los 9 días que la Iglesia primitiva perseveró en oración (Hechos 1, 14) desde la ascención al Pentecostés. Después de su pasión durante la Pascua, el Señor se apareció a sus discípulos por 40 días (Hechos 1, 3); y el Pentecostés, en que los discípulos recibieron el Espíritu Santo (Hechos 2, 1-4) se celebró 50 días después de la Pascua (Levítico 23, 15-16).
 
-
-## Sacramentos
-
-
 ---
 
+## Sacramentos
 
 ### Obj. 1: El bautismo de infantes es inválido porque el bautismo requiere fe y arrepentimiento personales. 
 
@@ -251,7 +248,7 @@ Jesús dijo *"dejad que los niños vengan a mí"* (Lucas 18:16) y que el bautism
 
 La **Iglesia primitiva bautizó a niños desde los tiempos apostólicos**, como atestigua Orígenes en el siglo III, y **la fe requerida para el bautismo es la de la Iglesia**, que actúa como madre y maestra, nutriendo al niño en la gracia hasta que pueda profesar su fe personalmente, de modo que el bautismo infantil **no es una invención humana** sino una **tradición apostólica** que manifiesta la universalidad de la salvación ofrecida a todos, sin exclusiones.
 
----
+
 
 ### Obj. 2: Los niños no necesitan bautizarse porque son inocentes y no tienen culpa del pecado original. 
 
@@ -268,7 +265,7 @@ Aunque los niños no tienen pecados personales, el bautismo es necesario porque 
 
 San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la muerte de Cristo para liberarnos de esa herencia** (Romanos 5:12-21). 
 
----
+
 
 
 ### Obj. 3: La Eucaristía es solo un símbolo; el pan y el vino no se convierten realmente en el Cuerpo y la Sangre de Cristo.
@@ -296,10 +293,9 @@ San Pablo advierte que quien come y bebe sin discernir el Cuerpo del Señor se h
 
 Los primeros Padres de la Iglesia, como San Ignacio de Antioquía (discípulo de los apóstoles), llamaron a la Eucaristía *"la carne de nuestro Salvador"* y San Cirilo de Jerusalén describió la conversión del pan y el vino como un misterio real, testimonio unánime que se remonta a los tiempos apostólicos y que **confirma que la Iglesia siempre ha creído en la presencia real de Cristo en el Sacramento del Altar**, tal como lo enseña el Magisterio hasta hoy.
 
-[Video relacionado - Anamnesis](https://www.youtube.com/watch?v=uRuRxWKR1AE)
+[Video - Anamnesis][anamnesis]
 
 
----
 
 ### Obj. 4: La confesión debe hacerse únicamente a Dios; ningún sacerdote puede perdonar pecados. 
 
@@ -326,7 +322,8 @@ La Iglesia primitiva practicaba la confesión pública de los pecados, entendien
 Este sacramento es un don de la misericordia divina que **nos asegura el perdón de manera tangible** y nos humilla al reconocer nuestras faltas ante un **representante de Cristo**, rompiendo el **autoengaño** y fortaleciéndonos para vivir en la gracia, como han experimentado innumerables santos y fieles a lo largo de la historia de la Iglesia.
 
 
-[Video relacionado - Mitos sobre la confesión](https://youtu.be/VCOmbMndSo8)
+[Video - Mitos sobre la confesión][confesion]
+
 
 ---
 
@@ -370,9 +367,9 @@ Esta idea es históricamente insostenible, ya que los primeros Padres de la Igle
 
 Curioso como cada acusacion resulta una confesion por parte de los herejes.
 
-[Video relacionado - Contra Lutero I][contra-lutero-1]
+[Video - Contra Lutero I][contra-lutero-1]
 
-[Video relacionado - Contra Lutero II][contra-lutero-2]
+[Video - Contra Lutero II][contra-lutero-2]
 
 
 
@@ -428,9 +425,56 @@ Atribuir al domingo un carácter diabólico **es una interpretación arbitraria 
 
 
 
+### Obj. 6: Los libros deuterocanónicos no son inspirados y no deben formar parte de la Biblia. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+
+> De otro modo, ¿qué harán los que se bautizan por los muertos, **si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?** (1 Corintios 15:29.)
+
+> e hicieron rogativas pidiendo que el pecado cometido quedara completamente borrado. El noble Judas exhortó a la multitud a que se abstuvieran del pecado, ya que ellos habían visto con sus propios ojos lo que había sucedido a los caídos en el combate a causa de su pecado. Y después de haber recolectado entre sus hombres unas dos mil dracmas, las envió a Jerusalén para que se ofreciera un sacrificio por el pecado. Él realizó este hermoso y noble gesto con el pensamiento puesto en la **resurrección**, porque **si no hubiera esperado que los caídos en la batalla iban a resucitar, habría sido inútil y superfluo orar por los difuntos**. Además, él tenía presente la magnífica recompensa que está reservada a los que mueren piadosamente, y este es un pensamiento santo y piadoso. Por eso, mandó ofrecer el sacrificio de expiación por los muertos, para que fueran librados de sus pecados. (2 Macabeos 12:42-45)
+
+Los libros deuterocanónicos **son inspirados y forman parte de la Biblia porque fueron incluidos en la Septuaginta**, la versión griega del Antiguo Testamento que la Iglesia primitiva, guiada por los apóstoles, utilizaba en sus liturgias, y porque el Nuevo Testamento **hace alusiones a ellos y a sus enseñanzas**, como la oración por los difuntos que San Pablo parece presuponer en 1 Corintios 15:29.
+
+Los judíos de Palestina no incluían estos libros en su canon hebreo, **pero los judíos de la diáspora sí los aceptaban**, y la Iglesia, bajo la inspiración del Espíritu Santo, los confirmó como canónicos en los concilios de Hipona y Cartago, siguiendo la práctica de los apóstoles, que citaban la Septuaginta. 
+
+**Su exclusión** por parte de los reformadores protestantes en el siglo XVI **fue un acto arbitrario** basado en un canon judío posterior, que no tenía autoridad sobre la Iglesia cristiana, y estos libros han sido leídos y venerados por los cristianos desde el principio, como demuestra el testimonio de los Padres de la Iglesia, por lo que su valor doctrinal y espiritual es indiscutible y forma parte integral de la fe católica.
+
+
+### Obj. 7: La Iglesia Católica eliminó libros inspirados o alteró deliberadamente la Biblia.
+
+(Frecuente entre bautistas, pentecostales y adventistas, especialmente respecto a los deuterocanónicos)
+
+#### Respuesta
+{:.no_toc}
+
+La Iglesia Católica **no eliminó ni alteró la Biblia (como *si* hizo Lutero, que pensaba incluso suprimir *Santiago*)**, sino que **preservó el canon completo** de las Escrituras, incluyendo los libros deuterocanónicos *(Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1 y 2 Macabeos)*, que fueron parte de **la Septuaginta, la Biblia usada por los apóstoles y los primeros cristianos, y que Jesús y los evangelistas citaban con frecuencia**. 
+
+**Fueron los *"reformadores" protestantes***, en el siglo XVI, quienes **eliminaron** estos libros del canon hebreo masorético, basándose en un **criterio humano**, mientras que la Iglesia, guiada por el Espíritu Santo, confirmó el canon en los concilios de Hipona (393) y Cartago (397), mucho antes de la *"Reforma"*, y estos libros contienen enseñanzas como la oración por los difuntos (2 Macabeos 12:42-45) que la Iglesia siempre ha practicado. 
+
+La acusación de alteración **es infundada**, pues el texto bíblico ha sido transmitido con fidelidad a lo largo de los siglos, y la Iglesia, como columna de la verdad (1 Timoteo 3:15), **ha custodiado las Escrituras sin cambiarlas**.
+
+Hace falta quitarse de en medio tan incomodos libros para justificar **la fe sin obras**.
+
+[Video - Sembrador de Peste][jgm-6-relatos-6]
+
+[Video - Error teologico, error politico][sa-capitalismo-fe]
+
+[Video - Fe Catolica contra protestantismo][cat-vs-prot]
+
+
+
+
+
 
 
 ---
+
+[confesion]:https://youtu.be/VCOmbMndSo8
+[anamnesis]:https://www.youtube.com/watch?v=uRuRxWKR1AE
 
 [p-toro-padre]:https://youtu.be/MkE7zqB1CZA
 [p-toro-cruz]:https://youtu.be/HRbmYx3ddPw?t=307
@@ -441,3 +485,7 @@ Atribuir al domingo un carácter diabólico **es una interpretación arbitraria 
 
 [contra-lutero-1]:https://youtu.be/BC303i2pH-c
 [contra-lutero-2]:https://youtu.be/Y6saiKnRmjg
+
+[jgm-6-relatos-6]:https://youtu.be/mZcrXKWYdm0?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt
+[sa-capitalismo-fe]:https://youtu.be/ZodfIsGdw5g?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt
+[cat-vs-prot]:https://youtu.be/IMPgO0aPJf8?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt

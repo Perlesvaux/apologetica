@@ -283,18 +283,26 @@ La revelación pública sí terminó con los apóstoles porque la Escritura ense
 #### Respuesta
 {:.no_toc}
 
-La Iglesia Católica no eliminó ni alteró la Biblia, sino que preservó el canon completo de las Escrituras, incluyendo los libros deuterocanónicos (Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1 y 2 Macabeos), que fueron parte de la Septuaginta, la Biblia usada por los apóstoles y los primeros cristianos, y que Jesús y los evangelistas citaban con frecuencia. El Vademécum explica que fueron los reformadores protestantes, en el siglo XVI, quienes eliminaron estos libros del canon hebreo masorético, basándose en un criterio humano, mientras que la Iglesia, guiada por el Espíritu Santo, confirmó el canon en los concilios de Hipona (393) y Cartago (397), mucho antes de la Reforma, y estos libros contienen enseñanzas como la oración por los difuntos (2 Macabeos 12:42-45) que la Iglesia siempre ha practicado. La acusación de alteración es infundada, pues el texto bíblico ha sido transmitido con fidelidad a lo largo de los siglos, y la Iglesia, como columna de la verdad (1 Timoteo 3:15), ha custodiado las Escrituras sin cambiarlas, mientras que las numerosas traducciones protestantes modernas a veces reflejan interpretaciones teológicas, no la eliminación deliberada de textos, como demuestran los manuscritos más antiguos y el testimonio unánime de la Tradición cristiana.
+La Iglesia Católica **no eliminó ni alteró la Biblia (como *si* hizo Lutero, que pensaba incluso suprimir *Santiago*)**, sino que **preservó el canon completo** de las Escrituras, incluyendo los libros deuterocanónicos *(Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1 y 2 Macabeos)*, que fueron parte de **la Septuaginta, la Biblia usada por los apóstoles y los primeros cristianos, y que Jesús y los evangelistas citaban con frecuencia**. 
+
+**Fueron los *"reformadores" protestantes***, en el siglo XVI, quienes **eliminaron** estos libros del canon hebreo masorético, basándose en un **criterio humano**, mientras que la Iglesia, guiada por el Espíritu Santo, confirmó el canon en los concilios de Hipona (393) y Cartago (397), mucho antes de la *"Reforma"*, y estos libros contienen enseñanzas como la oración por los difuntos (2 Macabeos 12:42-45) que la Iglesia siempre ha practicado. 
+
+La acusación de alteración **es infundada**, pues el texto bíblico ha sido transmitido con fidelidad a lo largo de los siglos, y la Iglesia, como columna de la verdad (1 Timoteo 3:15), **ha custodiado las Escrituras sin cambiarlas**.
+
+Hace falta quitarse de en medio tan incomodos libros para justificar **la fe sin obras**.
+
+[Video - Sembrador de Peste][jgm-6-relatos-6]
+
+[Video - Error teologico, error politico][sa-capitalismo-fe]
+
+[Video - Fe Catolica contra protestantismo][cat-vs-prot]
+
+[jgm-6-relatos-6]:https://youtu.be/mZcrXKWYdm0?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt
+[sa-capitalismo-fe]:https://youtu.be/ZodfIsGdw5g?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt
+[cat-vs-prot]:https://youtu.be/IMPgO0aPJf8?list=PLGtBzYHaqCVJ0Mut6pnSHul9WK2j62YVt
 
 
 
-### Los libros deuterocanónicos no son inspirados y no deben formar parte de la Biblia. 
-
-(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
-
-#### Respuesta
-{:.no_toc}
-
-Los libros deuterocanónicos son inspirados y forman parte de la Biblia porque fueron incluidos en la Septuaginta, la versión griega del Antiguo Testamento que la Iglesia primitiva, guiada por los apóstoles, utilizaba en sus liturgias, y porque el Nuevo Testamento hace alusiones a ellos y a sus enseñanzas, como la oración por los difuntos (2 Macabeos 12:42-45) que San Pablo parece presuponer en 1 Corintios 15:29. El Vademécum señala que los judíos de Palestina no incluían estos libros en su canon hebreo, pero los judíos de la diáspora sí los aceptaban, y la Iglesia, bajo la inspiración del Espíritu Santo, los confirmó como canónicos en los concilios de Hipona y Cartago, siguiendo la práctica de los apóstoles, que citaban la Septuaginta. Su exclusión por parte de los reformadores protestantes en el siglo XVI fue un acto arbitrario basado en un canon judío posterior, que no tenía autoridad sobre la Iglesia cristiana, y estos libros han sido leídos y venerados por los cristianos desde el principio, como demuestra el testimonio de los Padres de la Iglesia, por lo que su valor doctrinal y espiritual es indiscutible y forma parte integral de la fe católica.
 
 
 ### El uso de rosarios, escapularios, reliquias e imágenes constituye superstición y prácticas paganas. 
