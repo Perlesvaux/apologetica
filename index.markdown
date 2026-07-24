@@ -81,7 +81,7 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
-### Obj. 7: La Biblia prohibe ciertos alimentos
+### Obj. 4: La Biblia prohibe ciertos alimentos
 
 En Levítico 11 y Deuteronomio 14 se prohibe comer ciertos animales «impuros», y algunos protestantes enseñan que los cristianos debemos seguir esa ley dietética.
 
@@ -100,14 +100,20 @@ El cristiano vive bajo una Nueva Alianza en la cual ya no hay animales que sean 
 
 > El Espíritu dice claramente que en los últimos tiempos algunos apostatarán de la fe entregándose a espíritus engañadores y a **doctrinas diabólicas**, por la hipocresía de **embaucadores** que tienen marcada a fuego su propia conciencia; éstos **prohíben** el matrimonio y **el uso de alimentos que Dios creó para que fueran comidos con acción de gracias** por los creyentes y por los que han conocido la verdad. Porque **todo lo que Dios ha creado es bueno y no se ha de rechazar ningún alimento** que se coma con acción de gracias; (1 Timoteo 4, 1-4)
 
-### Obj. 8: Dios ordena observar el Sábado, no el Domingo
+### Obj. 5: Dios ordena observar el Sábado, no el Domingo
 
 Según el Antiguo Testamento hay que guardar el sábado y no el domingo (); también Jesús y los apóstoles asistían los sábados a la sinagoga ()
+
+«Sábado» viene del hebreo שַׁבָּת (*shabbát* = «día de reposo»). El 3er mandamiento es guardar el *shabbát*, que generalmente es el séptimo día de cada semana: el sábado. Sin embargo, cuando Dios establece un día de fiesta, ese día también es *shabbát* aunque no caiga en sábado. Por ejemplo:
+
+La Reina-Valera 1960 siempre traduce shabbát como "día de reposo", pero a veces anota al pie: "Aquí equivale a sábado" (Exodo 20:8-11 y Deuteronomio 5:12-15) y otras veces no (), cuando la festividad puede caer en cualquier día. Por eso la fórmula católica es más general: Santificarás las fiestas.
+
+Sin mencionar que, según la Biblia y la Didajé (un libro del siglo I, de lectura obligatoria para todo cristiano), los cristianos no debemos guardar el sábado sino el domingo ()
 
 #### Respuesta
 {:.no_toc}
 
-### Obj. 9: El Ángel de la Guarda no tiene sustento bíblico
+### Obj. 6: El Ángel de la Guarda no tiene sustento bíblico
 
 #### Respuesta
 {:.no_toc}
@@ -124,7 +130,7 @@ Y Pablo nos dice la misión de estos ángeles:
 
 > Y ¿a qué ángel dijo alguna vez: Siéntate a mi diestra, hasta que ponga a tus enemigos por escabel de tus pies? ¿Es que no son todos ellos espíritus servidores **con la misión de asistir a los que han de heredar la salvación**? (Hebreos 1, 13-14)
 
-### Obj. 10: Jesús no murió en una cruz, sino en un madero de tormento
+### Obj. 7: Jesús no murió en una cruz, sino en un madero de tormento
 
 #### Respuesta
 {:.no_toc}
@@ -139,14 +145,14 @@ Si Jesús hubiese muerto en un simple madero, el evangelista hubiera dicho que l
 
 Si Jesús hubiese muerto en un madero tal como en las ilustraciones de los Testigos de Jehová, donde 1 solo clavo atraviesa ambas manos, Tomás hubiera dicho: «Si no veo en sus manos la señal **del clavo** y no meto mi dedo en el agujero **del clavo**...»
 
-### Obj. 11: Los cristianos no deben usar la cruz porque es un instrumento de ejecución
+### Obj. 8: Los cristianos no deben usar la cruz porque es un instrumento de ejecución
 
-Algunos protestantes enseñan a repudiar la cruz porque, según ellos, es un macabro instrumento de ejecución. De entre ellos, algunos proponen usar la estrella de David como símbolo cristiano.
+Algunos protestantes enseñan a repudiar la cruz porque, según ellos, es un macabro instrumento de ejecución y maldición porque «es Maldito todo el que es colgado en un madero» (Gálatas 3, 13 citando Deuteronomio 21, 23). De entre ellos, algunos proponen usar la estrella de David como símbolo cristiano.
 
 #### Respuesta
 {:.no_toc}
 
-Lejos de rechazar la cruz, los primeros cristianos la veían como la señal de la victoria de Cristo sobre el pecado, y ellos nunca utilizaron la estrella de David. Y en vez de rechazar la cruz, Jesús la aceptó y nos anima a hacer lo mismo:
+Lejos de rechazar la cruz, los primeros cristianos la veían como la señal de la victoria de Cristo sobre el pecado; nunca utilizaron la estrella de David. Y en vez de rechazar la cruz, Jesús la aceptó y nos anima a hacer lo mismo:
 
 > Llamando a la gente a la vez que a sus discípulos, les dijo: «Si alguno quiere venir en pos de mí, niéguese a sí mismo, **tome su cruz y sígame**. (Marcos 8, 34)
 
@@ -161,6 +167,13 @@ Es decir: La Cruz es el instrumento que utilizó Dios para reconciliar a todos c
 > Porque no me envió Cristo a bautizar, sino a predicar el Evangelio. Y no con palabras sabias, **para no desvirtuar la cruz de Cristo**. Pues **la predicación de la cruz es una necedad para los que se pierden; mas para los que se salvan - para nosotros - es fuerza de Dios**. (1 Corintios 1, 17-18)
 
 > **nosotros predicamos a un Cristo crucificado**: escándalo para los judíos, necedad para los gentiles; (1 Corintios 1, 23)
+
+### Obj. 9: El uso de imágenes en el culto es antibíblico.
+
+
+#### Respuesta
+{:.no_toc}
+
 
 ## Oración
 
@@ -201,4 +214,113 @@ Mateo 6, 7 no condena las oraciones repetitivas, pues ellas siempre han sido cos
 #### Respuesta
 {:.no_toc}
 
-La práctica de las novenas viene de los 9 días que la Iglesia primitiva perseveró en oración (Hechos 1, 14) desde la ascención al Pentecostés. Después de su pasión durante la Pascua, el Señor se apareció a sus discípulos por 40 días (Hechos 1, 3), y el Pentecostés, en que los discípulos recibieron el Espíritu Santo (Hechos 2, 1-4) se celebró 50 días después de la Pascua (Levítico 23, 15-16).
+La práctica de las novenas viene de los 9 días que la Iglesia primitiva perseveró en oración (Hechos 1, 14) desde la ascención al Pentecostés. Después de su pasión durante la Pascua, el Señor se apareció a sus discípulos por 40 días (Hechos 1, 3); y el Pentecostés, en que los discípulos recibieron el Espíritu Santo (Hechos 2, 1-4) se celebró 50 días después de la Pascua (Levítico 23, 15-16).
+
+
+## Sacramentos
+
+
+---
+
+
+### Obj. 1: El bautismo de infantes es inválido porque el bautismo requiere fe y arrepentimiento personales. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Iglesia de Jesucristo de los Santos de los Últimos Días)
+
+#### Respuesta
+{:.no_toc}
+
+
+> Cuando **ella y los de su casa recibieron el bautismo**, suplicó: «Si juzgáis que soy fiel al Señor, venid y quedaos en mi casa.» Y nos obligó a ir. (Hechos 16:15)
+
+> En aquella misma hora de la noche el carcelero los tomó consigo y les lavó las heridas; inmediatamente **recibió el bautismo él y todos los suyos**. (Hechos 16:33)
+
+> ¡Ah, sí!, también **bauticé a la familia de Estéfanas**. Por lo demás, no creo haber bautizado a ningún otro. (1 Corintios 1:16)
+
+> **en él también fuisteis circuncidados** con la circuncisión no quirúrgica, sino mediante el despojo de vuestro cuerpo mortal, **por la circuncisión en Cristo**. Sepultados con él en el bautismo, con él también habéis resucitado por la fe en la acción de Dios, que resucitó de entre los muertos. (Colosenses 2:11-12)
+
+El bautismo de infantes es válido y bíblico porque el Nuevo Testamento muestra que **familias enteras, incluyendo niños, eran bautizadas**, y porque el **bautismo es el cumplimiento de la circuncisión**, que en el Antiguo Testamento se aplicaba a los niños de ocho días **sin su consentimiento personal** como signo de pertenencia al pueblo de Dios. 
+
+Jesús dijo *"dejad que los niños vengan a mí"* (Lucas 18:16) y que el bautismo es el nuevo nacimiento del agua y el Espíritu (Juan 3,5), una gracia que **no depende del entendimiento humano** sino de la iniciativa divina, como cuando San Juan Bautista fue lleno del Espíritu Santo desde el seno materno (Lucas 1:15). 
+
+La **Iglesia primitiva bautizó a niños desde los tiempos apostólicos**, como atestigua Orígenes en el siglo III, y **la fe requerida para el bautismo es la de la Iglesia**, que actúa como madre y maestra, nutriendo al niño en la gracia hasta que pueda profesar su fe personalmente, de modo que el bautismo infantil **no es una invención humana** sino una **tradición apostólica** que manifiesta la universalidad de la salvación ofrecida a todos, sin exclusiones.
+
+---
+
+### Obj. 2: Los niños no necesitan bautizarse porque son inocentes y no tienen culpa del pecado original. 
+
+(Iglesia de Jesucristo de los Santos de los Últimos Días; también muy frecuente entre bautistas y pentecostales)
+
+#### Respuesta
+{:.no_toc}
+
+> Mas Jesús, al ver esto, se enfadó y les dijo: **«Dejad que los niños vengan a mí, no se lo impidáis**, porque de los que son como éstos es el Reino de Dios. Yo os aseguro: **el que no reciba el Reino de Dios como niño, no entrará en él**.» (Marcos 10:14-15)
+
+> Mira que **en culpa ya nací, pecador me concibió mi madre**. (Salmo 51:7)
+
+Aunque los niños no tienen pecados personales, el bautismo es necesario porque **todos nacemos con el pecado original**, una condición de privación de la gracia santificante heredada de Adán. 
+
+San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la muerte de Cristo para liberarnos de esa herencia** (Romanos 5:12-21). 
+
+---
+
+
+### Obj. 3: La Eucaristía es solo un símbolo; el pan y el vino no se convierten realmente en el Cuerpo y la Sangre de Cristo.
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
+
+#### Respuesta
+{:.no_toc}
+
+> Mientras estaban comiendo, tomó Jesús pan y lo bendijo, lo partió y, dándoselo a sus discípulos, dijo: **«Tomad, comed, éste es mi cuerpo.»** Tomó luego una copa y, dadas las gracias, se la dio diciendo: **«Bebed de ella todos, porque ésta es mi sangre de la Alianza, que es derramada por muchos para perdón de los pecados**. (Mateo 26:26-28)
+
+La Eucaristía no es un mero símbolo, sino **la verdadera presencia de Cristo**, porque Jesús mismo dijo *de manera enfática*: **"Este es mi cuerpo" y "Esta es mi sangre"** 
+
+> **Yo soy el pan de la vida**. Vuestros padres comieron el maná en el desierto y murieron; este es el pan que baja del cielo, para que quien lo coma no muera. **Yo soy el pan vivo**, bajado del cielo. **Si uno come de este pan, vivirá para siempre**; y el pan que yo le voy a dar, es mi carne por la vida del mundo.» Discutían entre sí los judíos y decían: «¿Cómo puede éste darnos a comer su carne?» Jesús les dijo: «En verdad, en verdad os digo: si no coméis la carne del Hijo del hombre, y no bebéis su sangre, no tenéis vida en vosotros. El que come mi carne y bebe mi sangre, tiene vida eterna, y yo le resucitaré el último día. Porque **mi carne es verdadera comida y mi sangre verdadera bebida**. El que **come mi carne y bebe mi sangre, permanece en mí, y yo en él**. Lo mismo que el Padre, que vive, me ha enviado y yo vivo por el Padre, también el que me coma vivirá por mí. Este es el pan bajado del cielo; no como el que comieron vuestros padres, y murieron; el que coma este pan vivirá para siempre.» (Juan 6:48-58)
+
+
+
+En el discurso de Cafarnaúm **insistió repetidamente en que su carne es verdadera comida y su sangre verdadera bebida, usando el verbo griego *trogo*, que significa *"masticar o roer"*, una palabra que nunca se usa simbólicamente**. 
+
+Cuando muchos discípulos se escandalizaron y lo abandonaron por esta enseñanza, Jesús **no los corrigió diciendo que era una metáfora**, sino que **reafirmó la dureza de su doctrina**, permitiendo que se fueran.
+
+> Por tanto, **quien coma el pan o beba la copa del Señor** indignamente, será reo del Cuerpo y de la Sangre del Señor. Examínese, pues, cada cual, y coma así el pan y beba de la copa. Pues **quien come y bebe sin discernir el Cuerpo, come y bebe su propio castigo. Por eso hay entre vosotros muchos enfermos y muchos débiles, y mueren no pocos**. (1 Corintios 11:27-30) 
+
+San Pablo advierte que quien come y bebe sin discernir el Cuerpo del Señor se hace culpable y come su propio castigo, llegando a causar enfermedad y muerte, lo que sería inexplicable si la Eucaristía fuera solo un símbolo vacío. 
+
+Los primeros Padres de la Iglesia, como San Ignacio de Antioquía (discípulo de los apóstoles), llamaron a la Eucaristía *"la carne de nuestro Salvador"* y San Cirilo de Jerusalén describió la conversión del pan y el vino como un misterio real, testimonio unánime que se remonta a los tiempos apostólicos y que **confirma que la Iglesia siempre ha creído en la presencia real de Cristo en el Sacramento del Altar**, tal como lo enseña el Magisterio hasta hoy.
+
+[Video relacionado - Anamnesis](https://www.youtube.com/watch?v=uRuRxWKR1AE)
+
+
+---
+
+### Obj. 4: La confesión debe hacerse únicamente a Dios; ningún sacerdote puede perdonar pecados. 
+
+(Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día, Iglesia de Dios (Séptimo Día))
+
+#### Respuesta
+{:.no_toc}
+
+> Dicho esto, sopló sobre ellos y les dijo: «Recibid el Espíritu Santo. **A quienes perdonéis los pecados, les quedan perdonados; a quienes se los retengáis, les quedan retenidos.**» (Juan 20:22-23)
+
+La confesión a un sacerdote no es una usurpación del perdón divino, sino **el medio que el propio Cristo estableció para impartirlo**.
+
+> Y todo proviene de Dios, que nos reconcilió consigo por Cristo **y nos confió el ministerio de la reconciliación**. (2 Corintios 5:18)
+
+San Pablo **explicitamente alude aqui al sacramento de la reconciliación** (tambien llamado: *Confesión* o *Penitencia*).
+
+
+> **Confesaos**, pues, mutuamente vuestros pecados y orad los unos por los otros, para que seáis curados. La oración ferviente del justo tiene mucho poder. (Santiago 5:16)
+
+> Muchos de los que habían creído venían a **confesar** y declarar sus prácticas. (Hechos 19:18)
+
+La Iglesia primitiva practicaba la confesión pública de los pecados, entendiendo que, aunque solo Dios perdona, Él lo hace **a través de los hombres que ha designado**, tal como en el Antiguo Testamento **los sacerdotes ofrecían sacrificios para la expiación** (Levítico 5:5-6). 
+
+Este sacramento es un don de la misericordia divina que **nos asegura el perdón de manera tangible** y nos humilla al reconocer nuestras faltas ante un **representante de Cristo**, rompiendo el **autoengaño** y fortaleciéndonos para vivir en la gracia, como han experimentado innumerables santos y fieles a lo largo de la historia de la Iglesia.
+
+
+[Video relacionado - Mitos sobre la confesión](https://youtu.be/VCOmbMndSo8)
+
+---
+
