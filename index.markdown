@@ -32,6 +32,8 @@ En tales casos de endurecimiento, es mejor desistir, al menos por ese día, para
 
 Las citas corresponden a la Biblia de Jerusalén, a menos que se indique lo contrario.
 
+---
+
 ## Iglesia y Tradición
 
 ### Obj. 1: Cristo no fundó una Iglesia sobre Pedro
@@ -181,6 +183,13 @@ Es decir: La Cruz es el instrumento que utilizó Dios para reconciliar a todos c
 {:.no_toc}
 
 
+
+
+
+
+
+---
+
 ## Oración
 
 ### Obj. 1: El Padrenuestro es solo un modelo
@@ -265,7 +274,7 @@ Aunque los niños no tienen pecados personales, el bautismo es necesario porque 
 
 San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la muerte de Cristo para liberarnos de esa herencia** (Romanos 5:12-21). 
 
-
+[Video - Pecado Original][pecado-original]
 
 
 ### Obj. 3: La Eucaristía es solo un símbolo; el pan y el vino no se convierten realmente en el Cuerpo y la Sangre de Cristo.
@@ -479,6 +488,7 @@ Hace falta quitarse de en medio tan incomodos libros para justificar **la fe sin
 [p-toro-padre]:https://youtu.be/MkE7zqB1CZA
 [p-toro-cruz]:https://youtu.be/HRbmYx3ddPw?t=307
 
+[pecado-original]:https://youtu.be/WTk_fyDt9vU
 
 [siete-colinas]:https://www.youtube.com/shorts/eC8dyuY67fw?feature=share
 [skull-bones]:https://youtu.be/DoEbh_BGL2I
