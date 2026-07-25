@@ -34,7 +34,7 @@ Las citas corresponden a la Biblia de Jerusalén, a menos que se indique lo cont
 
 ---
 
-## Iglesia y Tradición
+## Iglesia y tradiciones católicas
 
 ### Obj. 1: Cristo no fundó una Iglesia sobre Pedro
 
@@ -88,8 +88,6 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
 [**▶ Video - Padre Luis Toro ◀**][p-toro-padre]{:.red-link} 
-
-
 
 ### Obj. 4: La Biblia prohibe ciertos alimentos
 
@@ -167,7 +165,7 @@ Algunos protestantes enseñan a repudiar la cruz porque, según ellos, es un mac
 
 Lejos de rechazar la cruz, los primeros cristianos la veían como la señal de la victoria de Cristo sobre el pecado; nunca utilizaron la estrella de David. Y en vez de rechazar la cruz, Jesús la aceptó y nos anima a hacer lo mismo:
 
-> Llamando a la gente a la vez que a sus discípulos, les dijo: «Si alguno quiere venir en pos de mí, niéguese a sí mismo, **tome su cruz y sígame**. (Marcos 8, 34)
+> Llamando a la gente a la vez que a sus discípulos, les dijo: «Si alguno quiere venir en pos de mí, niéguese a sí mismo, **tome su cruz y sígame**. (Marcos [8, 34](https://materialknight.github.io/doctrina-catolica/biblia-straubinger/marcos#c8-v34))
 
 Pablo siempre habla de la Cruz en forma positiva, nunca negativa:
 
@@ -180,6 +178,8 @@ Es decir: La Cruz es el instrumento que utilizó Dios para reconciliar a todos c
 > Porque no me envió Cristo a bautizar, sino a predicar el Evangelio. Y no con palabras sabias, **para no desvirtuar la cruz de Cristo**. Pues **la predicación de la cruz es una necedad para los que se pierden; mas para los que se salvan - para nosotros - es fuerza de Dios**. (1 Corintios 1, 17-18)
 
 > **nosotros predicamos a un Cristo crucificado**: escándalo para los judíos, necedad para los gentiles; (1 Corintios 1, 23)
+
+> Porque muchos viven según os dije tantas veces, y ahora os lo repito con lágrimas, como **enemigos de la cruz de Cristo**, (Filipenses 3, 18)
 
 ### Obj. 9: El uso de imágenes en el culto es antibíblico.
 
