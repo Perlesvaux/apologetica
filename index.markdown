@@ -87,7 +87,7 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
-[**▶ Video - Padre Luis Toro ◀**][p-toro-padre]{:.red-link} 
+[**▶ Video - Padre Luis Toro ◀**](https://youtu.be/MkE7zqB1CZA){:.red-link}
 
 ### Obj. 4: La Biblia prohibe ciertos alimentos
 
@@ -240,7 +240,7 @@ La práctica de las novenas viene de los 9 días que la Iglesia primitiva persev
 
 ## Sacramentos
 
-### Obj. 1: El bautismo de infantes es inválido porque el bautismo requiere fe y arrepentimiento personales. 
+### Obj. 1: El bautismo de infantes es inválido porque el bautismo requiere fe y arrepentimiento personales.
 
 (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Iglesia de Jesucristo de los Santos de los Últimos Días)
 
@@ -256,15 +256,15 @@ La práctica de las novenas viene de los 9 días que la Iglesia primitiva persev
 
 > **en él también fuisteis circuncidados** con la circuncisión no quirúrgica, sino mediante el despojo de vuestro cuerpo mortal, **por la circuncisión en Cristo**. Sepultados con él en el bautismo, con él también habéis resucitado por la fe en la acción de Dios, que resucitó de entre los muertos. (Colosenses 2:11-12)
 
-El bautismo de infantes es válido y bíblico porque el Nuevo Testamento muestra que **familias enteras, incluyendo niños, eran bautizadas**, y porque el **bautismo es el cumplimiento de la circuncisión**, que en el Antiguo Testamento se aplicaba a los niños de ocho días **sin su consentimiento personal** como signo de pertenencia al pueblo de Dios. 
+El bautismo de infantes es válido y bíblico porque el Nuevo Testamento muestra que **familias enteras, incluyendo niños, eran bautizadas**, y porque el **bautismo es el cumplimiento de la circuncisión**, que en el Antiguo Testamento se aplicaba a los niños de ocho días **sin su consentimiento personal** como signo de pertenencia al pueblo de Dios.
 
-Jesús dijo *"dejad que los niños vengan a mí"* (Lucas 18:16) y que el bautismo es el nuevo nacimiento del agua y el Espíritu (Juan 3,5), una gracia que **no depende del entendimiento humano** sino de la iniciativa divina, como cuando San Juan Bautista fue lleno del Espíritu Santo desde el seno materno (Lucas 1:15). 
+Jesús dijo *"dejad que los niños vengan a mí"* (Lucas 18:16) y que el bautismo es el nuevo nacimiento del agua y el Espíritu (Juan 3,5), una gracia que **no depende del entendimiento humano** sino de la iniciativa divina, como cuando San Juan Bautista fue lleno del Espíritu Santo desde el seno materno (Lucas 1:15).
 
 La **Iglesia primitiva bautizó a niños desde los tiempos apostólicos**, como atestigua Orígenes en el siglo III, y **la fe requerida para el bautismo es la de la Iglesia**, que actúa como madre y maestra, nutriendo al niño en la gracia hasta que pueda profesar su fe personalmente, de modo que el bautismo infantil **no es una invención humana** sino una **tradición apostólica** que manifiesta la universalidad de la salvación ofrecida a todos, sin exclusiones.
 
 
 
-### Obj. 2: Los niños no necesitan bautizarse porque son inocentes y no tienen culpa del pecado original. 
+### Obj. 2: Los niños no necesitan bautizarse porque son inocentes y no tienen culpa del pecado original.
 
 (Iglesia de Jesucristo de los Santos de los Últimos Días; también muy frecuente entre bautistas y pentecostales)
 
@@ -275,9 +275,9 @@ La **Iglesia primitiva bautizó a niños desde los tiempos apostólicos**, como 
 
 > Mira que **en culpa ya nací, pecador me concibió mi madre**. (Salmo 51:7)
 
-Aunque los niños no tienen pecados personales, el bautismo es necesario porque **todos nacemos con el pecado original**, una condición de privación de la gracia santificante heredada de Adán. 
+Aunque los niños no tienen pecados personales, el bautismo es necesario porque **todos nacemos con el pecado original**, una condición de privación de la gracia santificante heredada de Adán.
 
-San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la muerte de Cristo para liberarnos de esa herencia** (Romanos 5:12-21). 
+San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la muerte de Cristo para liberarnos de esa herencia** (Romanos 5:12-21).
 
 [Video - Pecado Original][pecado-original]
 
@@ -291,19 +291,19 @@ San Pablo enseña que **por Adán todos murieron y que el bautismo nos une a la 
 
 > Mientras estaban comiendo, tomó Jesús pan y lo bendijo, lo partió y, dándoselo a sus discípulos, dijo: **«Tomad, comed, éste es mi cuerpo.»** Tomó luego una copa y, dadas las gracias, se la dio diciendo: **«Bebed de ella todos, porque ésta es mi sangre de la Alianza, que es derramada por muchos para perdón de los pecados**. (Mateo 26:26-28)
 
-La Eucaristía no es un mero símbolo, sino **la verdadera presencia de Cristo**, porque Jesús mismo dijo *de manera enfática*: **"Este es mi cuerpo" y "Esta es mi sangre"** 
+La Eucaristía no es un mero símbolo, sino **la verdadera presencia de Cristo**, porque Jesús mismo dijo *de manera enfática*: **"Este es mi cuerpo" y "Esta es mi sangre"**
 
 > **Yo soy el pan de la vida**. Vuestros padres comieron el maná en el desierto y murieron; este es el pan que baja del cielo, para que quien lo coma no muera. **Yo soy el pan vivo**, bajado del cielo. **Si uno come de este pan, vivirá para siempre**; y el pan que yo le voy a dar, es mi carne por la vida del mundo.» Discutían entre sí los judíos y decían: «¿Cómo puede éste darnos a comer su carne?» Jesús les dijo: «En verdad, en verdad os digo: si no coméis la carne del Hijo del hombre, y no bebéis su sangre, no tenéis vida en vosotros. El que come mi carne y bebe mi sangre, tiene vida eterna, y yo le resucitaré el último día. Porque **mi carne es verdadera comida y mi sangre verdadera bebida**. El que **come mi carne y bebe mi sangre, permanece en mí, y yo en él**. Lo mismo que el Padre, que vive, me ha enviado y yo vivo por el Padre, también el que me coma vivirá por mí. Este es el pan bajado del cielo; no como el que comieron vuestros padres, y murieron; el que coma este pan vivirá para siempre.» (Juan 6:48-58)
 
 
 
-En el discurso de Cafarnaúm **insistió repetidamente en que su carne es verdadera comida y su sangre verdadera bebida, usando el verbo griego *trogo*, que significa *"masticar o roer"*, una palabra que nunca se usa simbólicamente**. 
+En el discurso de Cafarnaúm **insistió repetidamente en que su carne es verdadera comida y su sangre verdadera bebida, usando el verbo griego *trogo*, que significa *"masticar o roer"*, una palabra que nunca se usa simbólicamente**.
 
 Cuando muchos discípulos se escandalizaron y lo abandonaron por esta enseñanza, Jesús **no los corrigió diciendo que era una metáfora**, sino que **reafirmó la dureza de su doctrina**, permitiendo que se fueran.
 
-> Por tanto, **quien coma el pan o beba la copa del Señor** indignamente, será reo del Cuerpo y de la Sangre del Señor. Examínese, pues, cada cual, y coma así el pan y beba de la copa. Pues **quien come y bebe sin discernir el Cuerpo, come y bebe su propio castigo. Por eso hay entre vosotros muchos enfermos y muchos débiles, y mueren no pocos**. (1 Corintios 11:27-30) 
+> Por tanto, **quien coma el pan o beba la copa del Señor** indignamente, será reo del Cuerpo y de la Sangre del Señor. Examínese, pues, cada cual, y coma así el pan y beba de la copa. Pues **quien come y bebe sin discernir el Cuerpo, come y bebe su propio castigo. Por eso hay entre vosotros muchos enfermos y muchos débiles, y mueren no pocos**. (1 Corintios 11:27-30)
 
-San Pablo advierte que quien come y bebe sin discernir el Cuerpo del Señor se hace culpable y come su propio castigo, llegando a causar enfermedad y muerte, lo que sería inexplicable si la Eucaristía fuera solo un símbolo vacío. 
+San Pablo advierte que quien come y bebe sin discernir el Cuerpo del Señor se hace culpable y come su propio castigo, llegando a causar enfermedad y muerte, lo que sería inexplicable si la Eucaristía fuera solo un símbolo vacío.
 
 Los primeros Padres de la Iglesia, como San Ignacio de Antioquía (discípulo de los apóstoles), llamaron a la Eucaristía *"la carne de nuestro Salvador"* y San Cirilo de Jerusalén describió la conversión del pan y el vino como un misterio real, testimonio unánime que se remonta a los tiempos apostólicos y que **confirma que la Iglesia siempre ha creído en la presencia real de Cristo en el Sacramento del Altar**, tal como lo enseña el Magisterio hasta hoy.
 
@@ -311,7 +311,7 @@ Los primeros Padres de la Iglesia, como San Ignacio de Antioquía (discípulo de
 
 
 
-### Obj. 4: La confesión debe hacerse únicamente a Dios; ningún sacerdote puede perdonar pecados. 
+### Obj. 4: La confesión debe hacerse únicamente a Dios; ningún sacerdote puede perdonar pecados.
 
 (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día, Iglesia de Dios (Séptimo Día))
 
@@ -331,7 +331,7 @@ San Pablo **explicitamente alude aqui al sacramento de la reconciliación** (tam
 
 > Muchos de los que habían creído venían a **confesar** y declarar sus prácticas. (Hechos 19:18)
 
-La Iglesia primitiva practicaba la confesión pública de los pecados, entendiendo que, aunque solo Dios perdona, Él lo hace **a través de los hombres que ha designado**, tal como en el Antiguo Testamento **los sacerdotes ofrecían sacrificios para la expiación** (Levítico 5:5-6). 
+La Iglesia primitiva practicaba la confesión pública de los pecados, entendiendo que, aunque solo Dios perdona, Él lo hace **a través de los hombres que ha designado**, tal como en el Antiguo Testamento **los sacerdotes ofrecían sacrificios para la expiación** (Levítico 5:5-6).
 
 Este sacramento es un don de la misericordia divina que **nos asegura el perdón de manera tangible** y nos humilla al reconocer nuestras faltas ante un **representante de Cristo**, rompiendo el **autoengaño** y fortaleciéndonos para vivir en la gracia, como han experimentado innumerables santos y fieles a lo largo de la historia de la Iglesia.
 
@@ -344,7 +344,7 @@ Este sacramento es un don de la misericordia divina que **nos asegura el perdón
 ## Calumnias Gratuitas
 
 
-### Obj. 1: La Iglesia Católica es la "Babilonia la Grande" o la ramera del Apocalipsis. 
+### Obj. 1: La Iglesia Católica es la "Babilonia la Grande" o la ramera del Apocalipsis.
 (Adventistas del Séptimo Día, Testigos de Jehová; también frecuente entre predicadores pentecostales y bautistas)
 
 > Maridos, amad a vuestras mujeres, **así como Cristo amó a la iglesia, y se entregó a sí mismo por ella**, para santificarla, habiéndola purificado en el lavamiento del agua por la palabra, a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha. (Efesios 5:25-27)
@@ -352,7 +352,7 @@ Este sacramento es un don de la misericordia divina que **nos asegura el perdón
 #### Respuesta
 {:.no_toc}
 
-Identificar a la Iglesia Católica con la *"Babilonia la Grande"* del Apocalipsis es una interpretación falaz y desmentida por la historia, ya que el término *"Babilonia"* en el Nuevo Testamento **se refiere a Roma pagana**, la ciudad que **persiguió a los cristianos** y destruyó Jerusalén en el año 70 d.C., no a la Iglesia fundada por Cristo (Apocalipsis 17,9-18). 
+Identificar a la Iglesia Católica con la *"Babilonia la Grande"* del Apocalipsis es una interpretación falaz y desmentida por la historia, ya que el término *"Babilonia"* en el Nuevo Testamento **se refiere a Roma pagana**, la ciudad que **persiguió a los cristianos** y destruyó Jerusalén en el año 70 d.C., no a la Iglesia fundada por Cristo (Apocalipsis 17,9-18).
 
 Esta teoría, popularizada por *Alexander Hislop* en el siglo XIX, se basa en una lógica defectuosa que comete la falacia de origen y de non sequitur, como demuestra el propio apologista Ralph Woodrow, quien repudió su obra anterior al descubrir que los mismos métodos de Hislop podrían *"probar"* que cualquier institución moderna, incluida la Biblia misma, tiene orígenes paganos.
 
@@ -368,14 +368,14 @@ Uno es lo que hace. **Masones, judíos y herejes son quienes persiguen cristiano
 
 
 
-### Obj. 2: La Iglesia Católica apostató poco después de los apóstoles y corrompió el cristianismo verdadero. 
+### Obj. 2: La Iglesia Católica apostató poco después de los apóstoles y corrompió el cristianismo verdadero.
 
 (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Testigos de Jehová, Iglesia de Jesucristo de los Santos de los Últimos Días, Adventistas del Séptimo Día)
 
 #### Respuesta
 {:.no_toc}
 
-La teoría de la Gran Apostasía no se sostiene porque **contradice la promesa de Cristo de que las puertas del infierno no prevalecerían contra Su Iglesia** (Mateo 16:18) y que Él estaría con ella *"hasta el fin del mundo"* (Mateo 28:20). 
+La teoría de la Gran Apostasía no se sostiene porque **contradice la promesa de Cristo de que las puertas del infierno no prevalecerían contra Su Iglesia** (Mateo 16:18) y que Él estaría con ella *"hasta el fin del mundo"* (Mateo 28:20).
 
 Esta idea es históricamente insostenible, ya que los primeros Padres de la Iglesia, como Ignacio de Antioquía (que conoció a los apóstoles), enseñaron coherentemente doctrinas como la presencia real en la Eucaristía y el papado, sin que exista registro de una comunidad *"verdadera"* que se opusiera a estas enseñanzas desde el principio. El hecho de que **herejes** como *Arrio* y *Lutero* surgieran *"de entre"* los fieles (Hechos 20:29-30) no prueba la apostasía de toda la Iglesia, sino **el cumplimiento de la profecía de falsos maestros dentro de la comunidad**, mientras la Iglesia, como columna y fundamento de la verdad (1 Timoteo 3:15), permanece guiada por el Espíritu Santo.
 
@@ -387,7 +387,7 @@ Curioso como cada acusacion resulta una confesion por parte de los herejes.
 
 
 
-### Obj. 3: La Iglesia Católica mezcló el cristianismo con el paganismo romano mediante fiestas, imágenes y costumbres. 
+### Obj. 3: La Iglesia Católica mezcló el cristianismo con el paganismo romano mediante fiestas, imágenes y costumbres.
 
 (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día, Testigos de Jehová)
 
@@ -396,9 +396,9 @@ Curioso como cada acusacion resulta una confesion por parte de los herejes.
 
 > Entonces Pablo, puesto en pie en medio del Areópago, dijo: Varones atenienses, en todo observo que **sois muy religiosos**; porque pasando y mirando vuestros santuarios, hallé también un altar en el cual estaba esta inscripción: AL DIOS NO CONOCIDO. **Al que vosotros adoráis, pues, sin conocerle, es a quien yo os anuncio**. (Hechos 17:22-23)
 
-La acusación de que la Iglesia Católica mezcló el cristianismo con el paganismo romano carece de fundamento histórico, porque la Iglesia siempre ha inculturado el Evangelio en cada cultura, tomando formas culturales y dándoles un sentido cristiano, como hizo San Pablo en Atenas al convertir el altar al "Dios desconocido" en una proclamación del Dios verdadero, sin que ello implicara adoptar el paganismo. 
+La acusación de que la Iglesia Católica mezcló el cristianismo con el paganismo romano carece de fundamento histórico, porque la Iglesia siempre ha inculturado el Evangelio en cada cultura, tomando formas culturales y dándoles un sentido cristiano, como hizo San Pablo en Atenas al convertir el altar al "Dios desconocido" en una proclamación del Dios verdadero, sin que ello implicara adoptar el paganismo.
 
-Esta teoría, propagada por el libro **Las Dos Babilonias** de *Alexander Hislop*, es un ejemplo de falacia lógica que confunde similitudes superficiales con orígenes paganos. Incluso su seguidor *Ralph Woodrow* repudió estos métodos al darse cuenta de que podrían *"probar"* que cualquier institución, incluida la Biblia, tiene raíces paganas, **lo que demuestra su absurdo**. 
+Esta teoría, propagada por el libro **Las Dos Babilonias** de *Alexander Hislop*, es un ejemplo de falacia lógica que confunde similitudes superficiales con orígenes paganos. Incluso su seguidor *Ralph Woodrow* repudió estos métodos al darse cuenta de que podrían *"probar"* que cualquier institución, incluida la Biblia, tiene raíces paganas, **lo que demuestra su absurdo**.
 
 La Iglesia adoptó elementos culturales, como templos y vestimentas, pero los transformó y santificó para la adoración del Dios vivo, y su enseñanza sobre la Encarnación, la Eucaristía y los sacramentos es radicalmente distinta de cualquier culto mistérico, como **lo han atestiguado los mártires que prefirieron morir antes que ofrecer incienso a los dioses romanos, mostrando que su fe era pura y no una mezcla sincretista**.
 
@@ -416,7 +416,7 @@ La Iglesia adoptó elementos culturales, como templos y vestimentas, pero los tr
 > y les dijo: **«En la cátedra de Moisés** se han sentado los escribas y los fariseos. (Mateo 23:2)
 
 
-La Iglesia Católica no enseña tradiciones humanas en lugar del Evangelio, sino que guarda la Sagrada Tradición que proviene de los apóstoles, la cual San Pablo ordena conservar **tanto de viva voz como por carta**, y que es la misma enseñanza de Cristo transmitida bajo la guía del Espíritu Santo. 
+La Iglesia Católica no enseña tradiciones humanas en lugar del Evangelio, sino que guarda la Sagrada Tradición que proviene de los apóstoles, la cual San Pablo ordena conservar **tanto de viva voz como por carta**, y que es la misma enseñanza de Cristo transmitida bajo la guía del Espíritu Santo.
 
 **Jesús mismo reconoció la autoridad de la tradición oral cuando se refirió a "la cátedra de Moisés"**, una tradición no escrita, y que **la Iglesia primitiva definió dogmas como la admisión de los gentiles sin circuncisión** (Hechos 15), una decisión que, aunque no se basaba en la Escritura explícita, era fruto de la asistencia del Espíritu Santo. **La Tradición** no es una añadidura humana, sino **el depósito de la fe**, que **junto con la Escritura forma una única fuente de revelación**, y fue precisamente la Iglesia la que, bajo la inspiración divina, determinó el canon bíblico, por lo que **oponer Tradición y Evangelio es un falso dilema que ignora que el Evangelio fue primero predicado y vivido antes de ser escrito**, y que la Iglesia es *"columna y fundamento de la verdad"* (1 Timoteo 3,15).
 
@@ -431,7 +431,7 @@ La Iglesia Católica no enseña tradiciones humanas en lugar del Evangelio, sino
 
 >Por tanto, **que nadie os critique** por cuestiones de comida o bebida, o **a propósito de fiestas, de novilunios o sábados**. Todo esto es **sombra de lo venidero; pero la realidad es el cuerpo de Cristo**. (Colosenses 2:16-17)
 
-El sábado era una sombra de la realidad que es Cristo, y que el cambio al domingo refleja **la nueva creación inaugurada por la Pascua**, sin que haya ninguna profecía que relacione este día con la apostasía; al contrario, la Iglesia, como columna y fundamento de la verdad tiene autoridad para establecer días de culto, como hizo al determinar el canon bíblico y los dogmas. 
+El sábado era una sombra de la realidad que es Cristo, y que el cambio al domingo refleja **la nueva creación inaugurada por la Pascua**, sin que haya ninguna profecía que relacione este día con la apostasía; al contrario, la Iglesia, como columna y fundamento de la verdad tiene autoridad para establecer días de culto, como hizo al determinar el canon bíblico y los dogmas.
 
 > **El primer día de la semana**, estando nosotros reunidos para la fracción del pan, Pablo, que debía marchar al día siguiente, conversaba con ellos y alargó la charla hasta la media noche. (Hechos 20:7)
 
@@ -439,7 +439,7 @@ Atribuir al domingo un carácter diabólico **es una interpretación arbitraria 
 
 
 
-### Obj. 6: Los libros deuterocanónicos no son inspirados y no deben formar parte de la Biblia. 
+### Obj. 6: Los libros deuterocanónicos no son inspirados y no deben formar parte de la Biblia.
 
 (Asambleas de Dios, Tabernáculo Bíblico Bautista, Misión Cristiana Elim Internacional, Iglesia Bautista, Adventistas del Séptimo Día)
 
@@ -453,7 +453,7 @@ Atribuir al domingo un carácter diabólico **es una interpretación arbitraria 
 
 Los libros deuterocanónicos **son inspirados y forman parte de la Biblia porque fueron incluidos en la Septuaginta**, la versión griega del Antiguo Testamento que la Iglesia primitiva, guiada por los apóstoles, utilizaba en sus liturgias, y porque el Nuevo Testamento **hace alusiones a ellos y a sus enseñanzas**, como la oración por los difuntos que San Pablo parece presuponer en 1 Corintios 15:29.
 
-Los judíos de Palestina no incluían estos libros en su canon hebreo, **pero los judíos de la diáspora sí los aceptaban**, y la Iglesia, bajo la inspiración del Espíritu Santo, los confirmó como canónicos en los concilios de Hipona y Cartago, siguiendo la práctica de los apóstoles, que citaban la Septuaginta. 
+Los judíos de Palestina no incluían estos libros en su canon hebreo, **pero los judíos de la diáspora sí los aceptaban**, y la Iglesia, bajo la inspiración del Espíritu Santo, los confirmó como canónicos en los concilios de Hipona y Cartago, siguiendo la práctica de los apóstoles, que citaban la Septuaginta.
 
 **Su exclusión** por parte de los reformadores protestantes en el siglo XVI **fue un acto arbitrario** basado en un canon judío posterior, que no tenía autoridad sobre la Iglesia cristiana, y estos libros han sido leídos y venerados por los cristianos desde el principio, como demuestra el testimonio de los Padres de la Iglesia, por lo que su valor doctrinal y espiritual es indiscutible y forma parte integral de la fe católica.
 
@@ -465,9 +465,9 @@ Los judíos de Palestina no incluían estos libros en su canon hebreo, **pero lo
 #### Respuesta
 {:.no_toc}
 
-La Iglesia Católica **no eliminó ni alteró la Biblia (como *si* hizo Lutero, que pensaba incluso suprimir *Santiago*)**, sino que **preservó el canon completo** de las Escrituras, incluyendo los libros deuterocanónicos *(Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1 y 2 Macabeos)*, que fueron parte de **la Septuaginta, la Biblia usada por los apóstoles y los primeros cristianos, y que Jesús y los evangelistas citaban con frecuencia**. 
+La Iglesia Católica **no eliminó ni alteró la Biblia (como *si* hizo Lutero, que pensaba incluso suprimir *Santiago*)**, sino que **preservó el canon completo** de las Escrituras, incluyendo los libros deuterocanónicos *(Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1 y 2 Macabeos)*, que fueron parte de **la Septuaginta, la Biblia usada por los apóstoles y los primeros cristianos, y que Jesús y los evangelistas citaban con frecuencia**.
 
-**Fueron los *"reformadores" protestantes***, en el siglo XVI, quienes **eliminaron** estos libros del canon hebreo masorético, basándose en un **criterio humano**, mientras que la Iglesia, guiada por el Espíritu Santo, confirmó el canon en los concilios de Hipona (393) y Cartago (397), mucho antes de la *"Reforma"*, y estos libros contienen enseñanzas como la oración por los difuntos (2 Macabeos 12:42-45) que la Iglesia siempre ha practicado. 
+**Fueron los *"reformadores" protestantes***, en el siglo XVI, quienes **eliminaron** estos libros del canon hebreo masorético, basándose en un **criterio humano**, mientras que la Iglesia, guiada por el Espíritu Santo, confirmó el canon en los concilios de Hipona (393) y Cartago (397), mucho antes de la *"Reforma"*, y estos libros contienen enseñanzas como la oración por los difuntos (2 Macabeos 12:42-45) que la Iglesia siempre ha practicado.
 
 La acusación de alteración **es infundada**, pues el texto bíblico ha sido transmitido con fidelidad a lo largo de los siglos, y la Iglesia, como columna de la verdad (1 Timoteo 3:15), **ha custodiado las Escrituras sin cambiarlas**.
 
