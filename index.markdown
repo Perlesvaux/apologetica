@@ -17,18 +17,26 @@ title: Breve manual de apologética
 
 La misión principal de la Iglesia es anunciar a todos la Buena Nueva de Jesucristo (Mateo 28, 19-10; Marcos 16, 15-16; Lucas 4, 43; 24, 46-47; 1 Corintios 9, 16): su Encarnación, Pasión, Muerte y Resurrección para la salvación del mundo. El *carisma Pasionista* es fundamental en esta misión, pues ¿qué es la evangelización sino reavivar el recuerdo de la Pasión de Cristo para llevar a la conversión?
 
-Sin embargo, ese primer anuncio o *kerigma* es solo el primer paso para llevar un alma a la plenitud del *evangelio*, el cual solo se vive y aprende plenamente en la **Iglesia de Cristo**, la cual, como madre y maestra, nos alimenta y educa con la sana doctrina, y nos permite vivir en gracia participando de la vida sacramental.
+El primer anuncio o *kerigma* puede resumirse en cinco simples verdades:
 
-La mayoría de personas en nuestros países ya recibió el primer anuncio o *kerigma*, pero el proselitismo de las sectas protestantes (cuya doctrina siempre lleva veneno anticatólico) ya alejó de la verdad a la mitad de nuestra hispanoamérica, que algún día fue casi totalmente católica. Por eso hoy es necesario estar preparado para demostrar que la verdad es católica; y en eso consiste la *apologética*: en la defensa de nuestra fe.
+1. Dios nos ama y nos creó para vivir en comunión con Él.
+2. El pecado nos aleja de Él y nos esclaviza.
+3. Jesucristo, Hijo de Dios, por su muerte y resurrección venció al pecado y a la muerte, abriendo para nosotros el camino de salvación.
+4. Cada uno está llamado a responder con fe, conversión y bautismo.
+5. Ya en la Iglesia, se ha de crecer en la fe, mediante los sacramentos y perseverando en el ejemplo y los mandamientos de Cristo.
+
+Es decir: el primer anuncio o *kerigma* es el primer paso para llevar un alma a la plenitud del *Evangelio*, el cual solo se vive y aprende plenamente en la *Iglesia de Cristo*, la cual, como madre y maestra, nos alimenta y educa con la sana doctrina, y nos permite vivir en gracia participando de la vida sacramental.
+
+La mayoría de hispanoamericanos ya recibió el primer anuncio o *kerigma*, pero el proselitismo de las sectas protestantes (cuya doctrina siempre lleva veneno anticatólico) ya alejó de la verdad a la mitad de nuestra hispanoamérica, que algún día fue casi totalmente católica. Por eso hoy no basta llevar el *kerigma*, sino que además hay que demostrar que la verdad es católica, y para eso está la *apologética*, que es la «disciplina teológica que expone las pruebas y fundamentos de nuestra fe».
 
 Este documento es para ayudar un poco a esa *evangelización apologética* que hoy se requiere; en él se ofrecen respuestas breves a los errores protestantes más comunes. Cada tema está dividido en objeciones protestantes con su respectiva respuesta católica. Ante todo, durante la evangelización, recuérdese que el condicionamiento anticatólico de las sectas es difícil de superar, y la conversión es dolorosa. Tengamos paciencia con nuestros hermanos separados.
 
-Cuando un hermano separado se siente acorralado, puede desesperarse y empezar a:
+Cuando un hermano separado se sienta acorralado, podría desesperarse y empezar a:
 
-- Interrumpir saltando de un tema a otro, yendo de un tema sencillo (como la necesidad del Bautismo) a uno más complejo (como la inmaculada concepción de María), queriendo confirmar que la fe católica eseña alguna cosa injustificable (porque si todas las denominaciones tienen algo de falso, él se siente autorizado para quedarse donde está).
-- Re-objetar un punto que ya admitió (por ejemplo: ya aceptó que el alma es inmortal y hay santos en el Cielo, pero cuando uno trata de demostrar la intercesión de María, vuelven a decir que «los muertos nada saben»).
+- Interrumpir saltando de un tema a otro, yendo de un tema sencillo a uno más complejo, sin escuchar las respuestas que se le dan, queriendo confirmar que la fe católica eseña alguna cosa injustificable, porque si todas las denominaciones tienen algo de falso, la persona se siente autorizada para quedarse donde está.
+- Re-objetar un punto que ya admitió, por ejemplo: ya aceptó que el alma es inmortal y hay santos en el Cielo, pero cuando uno trata de demostrar la intercesión de María, vuelven a decir que «los muertos nada saben».
 
-En tales casos de endurecimiento, es mejor desistir, al menos por ese día, para evitar enemistad. Oremos por ellos.
+En tales casos de endurecimiento, es mejor tratar de demostrar otra doctrina que al otro le parezca menos controvertida, o desistir por ese día para evitar enemistad. Aunque no logremos convencer en el momento, es suficiente el haber sembrado la duda sobre el protestantismo. Recuérdese la caridad ante todo, y oremos por ellos y su conversión.
 
 Las citas corresponden a la Biblia de Jerusalén, a menos que se indique lo contrario.
 
@@ -59,22 +67,28 @@ A Pedro se le dan las llaves del Cielo y el poder de atar y desatar, es decir: l
 
 **Error de**: Todos los protestantes.
 
-Los protestantes sostienen que para un cristiano es lícito pertenecer a cualquier secta, siempre y cuando amen sinceramente a Dios.
+Dicen que para un cristiano es lícito pertenecer a cualquier secta, siempre y cuando amen sinceramente a Dios.
 
 #### Respuesta
 {:.no_toc}
 
-Eso sería cierto si fuese imposible saber cuál Iglesia conserva la doctrina de Cristo, pero el testimonio de los primeros cristianos es indiscutible: La Iglesia católica nunca corrompió el evangelio, y no existe otra denominación cristiana que pueda decirse origen de la católica. Y si hubiera existido otra iglesia primitiva con la misma doctrina de alguna secta de hoy, habría sido documentada por los mismos católicos en alguna de sus refutaciones, por lo tanto: ninguna secta de hoy puede remontar su origen más allá del año 1500, de donde se deduce que todas son inventos de hombres. Entonces, ¿cómo puedo decir que amo a Dios si, sabiendo eso, no quiero pertenecer a su Iglesia (que es su Cuerpo y esposa), prefiriendo quedarme con los que luchan contra ella y la calumnian?
+Eso sería cierto si fuese imposible saber cuál Iglesia conserva la doctrina de Cristo, pero el testimonio de los primeros cristianos es indiscutible: La Iglesia católica nunca corrompió el evangelio, y no existe denominación cristiana que pueda decirse origen de la católica, pues si hubiera existido otra Iglesia primitiva con la misma doctrina de alguna secta de hoy, habría sido documentada por los mismos católicos en alguna de sus refutaciones, por lo tanto: ninguna secta de hoy puede remontar su origen más allá del año 1500, de donde se deduce que todas son inventos de hombres. Entonces, ¿cómo puedo decir que amo a Dios si, sabiendo eso, no quiero pertenecer a su Iglesia (que es su Cuerpo y esposa), prefiriendo quedarme con los que luchan contra ella y la calumnian?
 
 > «**El que no está conmigo, está contra mí**, y el que no recoge conmigo, desparrama.» (Lucas 11, 23)
 
-El peligro de las sectas protestantes, es que todas, sin excepción, enseñan mentiras anticatólicas, pues todas las fundó el diablo para dividir el Cuerpo de Cristo y acusarlo de mentiroso, pues Cristo oró porque la unidad cristiana fuese la prueba de que el Padre lo envió (Juan 17:21-23), y el que crea un cisma para fundar una secta va en contra de ese deseo.
+El peligro de las sectas protestantes, es que todas, sin excepción, enseñan mentiras anticatólicas que fomentan la división entre cristianos, pues aunque algunos han tenido en ellas su primer acercamiento a Dios y Él da su gracia donde quiere, lo cierto es que todas las fundó el diablo para dividir el Cuerpo de Cristo y acusarlo de falso profeta, puesto que Cristo oró porque la unidad cristiana fuese la prueba de que el Padre lo envió (Juan 17:21-23).
 
 > Ahora bien, las obras de la carne son conocidas: fornicación, impureza, libertinaje, idolatría, hechicería, **odios**, **discordia**, celos, iras, **rencillas**, **divisiones**, **disensiones**, envidias, embriagueces, orgías y cosas semejantes, sobre las cuales os prevengo, como ya os previne, que **quienes hacen tales cosas no heredarán el Reino de Dios**. (Gálatas 5, 19-21)
+
+Pero quizá el peligro más grande es que fuera de la Iglesia Católica no hay sacramentos para reparar la amistad con Dios, ni Eucaristía, sin la cual «no hay vida en nosotros»:
+
+> Jesús les dijo: «En verdad, en verdad os digo: **si no coméis la carne del Hijo del hombre, y no bebéis su sangre, no tenéis vida en vosotros**. El que come mi carne y bebe mi sangre, tiene vida eterna, y yo le resucitaré el último día. (Juan 6, 53-54)
 
 <noscript>sucesion apostólica</noscript>
 
 ### Obj. 3: No es lícito llamar «Padre» a una autoridad humana
+
+**Error de**: Evangélicos en general.
 
 > Y **no llaméis padre vuestro a nadie en la tierra**; porque uno es vuestro Padre, el que está en los cielos. Ni seáis llamados maestros; porque uno es vuestro Maestro, el Cristo. **El que es el mayor de vosotros, sea vuestro siervo**. (Mateo 23, 9-11)
 
@@ -87,9 +101,11 @@ Y aún así, el protestante llama «padre» a su padre y «maestro» a sus maest
 
 También Juan llama «hijitos» a sus destinatarios, queriendo decir que él es su padre (1 Juan 2, 1, 12, 28; etc.).
 
-[**▶ Video - Padre Luis Toro ◀**](https://youtu.be/MkE7zqB1CZA){:.red-link}
+[▶ Ver video sobre llamar Padre a una figura de autoridad - Padre Luis Toro ◀](https://youtu.be/MkE7zqB1CZA){:.red-link}
 
 ### Obj. 4: La Biblia prohibe ciertos alimentos
+
+**Error de**: Adventistas del Séptimo Día, Iglesia de Dios (Séptimo Día), Judíos Mesiánicos.
 
 En Levítico 11 y Deuteronomio 14 se prohibe comer ciertos animales «impuros», y algunos protestantes enseñan que los cristianos debemos seguir esa ley dietética.
 
@@ -108,7 +124,11 @@ El cristiano vive bajo una Nueva Alianza en la cual ya no hay animales que sean 
 
 > El Espíritu dice claramente que en los últimos tiempos algunos apostatarán de la fe entregándose a espíritus engañadores y a **doctrinas diabólicas**, por la hipocresía de **embaucadores** que tienen marcada a fuego su propia conciencia; éstos **prohíben** el matrimonio y **el uso de alimentos que Dios creó para que fueran comidos con acción de gracias** por los creyentes y por los que han conocido la verdad. Porque **todo lo que Dios ha creado es bueno y no se ha de rechazar ningún alimento** que se coma con acción de gracias; (1 Timoteo 4, 1-4)
 
+[▶ Ver video sobre alimentos prohibidos - Padre Luis Toro ◀](https://youtu.be/SrIAFqcYjeo){:.red-link}
+
 ### Obj. 5: Dios ordena observar el Sábado, no el Domingo
+
+**Error de**: Adventistas del Séptimo Día, Iglesia de Dios (Séptimo Día), Judíos Mesiánicos.
 
 Según el Antiguo Testamento hay que guardar el sábado y no el domingo (); también Jesús y los apóstoles asistían los sábados a la sinagoga ()
 
